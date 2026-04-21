@@ -689,6 +689,224 @@ Productization-skill references — §4.7.
 | Statsig. *Best LaunchDarkly Alternative* | 2025 | Vendor comparison | [Statsig](https://www.statsig.com/perspectives/launchdarkly-alternative-feature-flags) | skills/productization_skill §4.7 |
 | Statsig. *How LaunchDarkly Works* | 2025 | Explainer | [Statsig](https://www.statsig.com/perspectives/how-launchdarkly-works) | skills/productization_skill §4.7 |
 
+## AI System Architecture (SDM Lens)
+
+SDM-skill references — architectural methodology applied to AI systems.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Crawley, Cameron, Selva. *Systems Architecture: Strategy and Product Development for Complex Systems* 2nd ed | 2023-2024 | Foundational textbook | [Pearson](https://www.pearson.com/en-us/subject-catalog/p/systems-architecture-strategy-and-product-development-for-complex-systems/P200000003288/9780137981793) | DD8, skills/system_design_and_management §2.1 |
+| MIT Professional Education. *AI System Architecture and LLM Applications* | ongoing | Course | [MIT Professional Ed](https://professional.mit.edu/course-catalog/ai-system-architecture-and-large-language-model-applications) | skills/system_design_and_management §2.1 |
+| MIT System Architecture Group | ongoing | MIT group page | [systemarchitect.mit.edu](http://www.system-architect.org/) | skills/system_design_and_management §2.1 |
+| MIT Press. *Artificial Intelligence: A Systems Approach* | — | Book | [MIT Press](https://direct.mit.edu/books/monograph/5793/Artificial-IntelligenceA-Systems-Approach-from) | skills/system_design_and_management §2.1 |
+| MIT OCW. *ESD.34 System Architecture* (Crawley) | 2007 | Archive | [OCW](https://ocw.mit.edu/courses/esd-34-system-architecture-january-iap-2007/) | skills/system_design_and_management §2.1 |
+| Dori. *Object Process Methodology — A Holistic Systems Paradigm* | Springer | Foundational OPM text | [Springer](https://link.springer.com/book/10.1007/978-3-642-56209-9) | skills/system_design_and_management §2.2 |
+| ISO 19450:2024 *Automation systems and integration — OPM* | 2024 | OPM as ISO standard | Wikipedia entry linked below | skills/system_design_and_management §2.2 |
+| Kang, Shteingardt, Wang, Dori. *Neuro-Conceptual AI — Integrating OPM with Deep Learning for QA* | 2025 | OPM × deep learning | (cited via Dori group) | skills/system_design_and_management §2.2 |
+| OPM Wikipedia entry | ongoing | Overview | [Wikipedia](https://en.wikipedia.org/wiki/Object_Process_Methodology) | skills/system_design_and_management §2.2 |
+| MIT SDM. *OPM as ISO Conceptual Modeling Language Standard* | — | SDM blog | [SDM](https://sdm.mit.edu/the-maturation-of-model-based-systems-engineering-opm-as-the-iso-conceptual-modeling-language-standard/) | skills/system_design_and_management §2.2 |
+| OPCloud | ongoing | OPM modeling tool | [opcloud.tech](https://www.opcloud.tech/) | skills/system_design_and_management §2.2 |
+| ISO 19450:2024 INCOSE update slides | 2021 | Pre-release briefing | [OMGWiki](https://www.omgwiki.org/MBSE/lib/exe/fetch.php?media=mbse:incose_mbse_iw_2021:incose_iw_2021_iso_19450_update_dov_dori_jan_30_2021.pdf) | skills/system_design_and_management §2.2 |
+| Selva Research. *TAT-C ML: Tradespace Analysis Tool for Constellations with Machine Learning* | ongoing | Tradespace methodology | [selva-research.com](https://www.selva-research.com/research/tat-c-ml-tradespace-analysis-tool-for-constellations-with-machine-learning/) | skills/system_design_and_management §2.3 |
+| Ross & Hastings. *The Tradespace Exploration Paradigm* | 2005 | Foundational paper | [INCOSE PDF](https://web.mit.edu/adamross/www/Ross_INCOSE05.pdf) | skills/system_design_and_management §2.3 |
+| SEAri (Adam Ross). *Tradespace Lecture* | 2010 | MIT materials | [SEAri](https://seari.mit.edu/documents/courses/PI27s/SEAri_SC-2010-PI27s-06-1.pdf) | skills/system_design_and_management §2.3 |
+| DataRobot. *syftr — Pareto-Optimized AI Workflows* | 2025 | Open-source AI tradespace | [Blog](https://www.datarobot.com/blog/pareto-optimized-ai-workflows-syftr/) | skills/system_design_and_management §2.3 |
+| Kapoor & Narayanan. *AI Agents That Matter* | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2407.01502) | skills/system_design_and_management §2.3 |
+| NVIDIA. *LLM Inference Benchmarking — How Much Does Your LLM Inference Cost?* | 2024 | Dev blog | [NVIDIA](https://developer.nvidia.com/blog/llm-inference-benchmarking-how-much-does-your-llm-inference-cost/) | skills/system_design_and_management §2.3 |
+| Amazon Science. *Finding the Sweet Spot* (NeurIPS 2025 workshop) | 2025 | Pareto eval | [arXiv](https://arxiv.org/abs/2510.20653) · [arXiv](https://arxiv.org/html/2507.03834) · [arXiv](https://arxiv.org/html/2510.26136v1) | skills/system_design_and_management §2.3 |
+| CMU SEI ATAM | ongoing | Architecture evaluation | [SEI](https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/) | skills/system_design_and_management §2.3 |
+| CMU SEI *MLOps Evaluation Rubric* | — | ATAM for ML | [SEI](https://www.sei.cmu.edu/library/machine-learning-operations-mlops-evaluation-rubric/) | skills/system_design_and_management §2.3 |
+| Azure WAF — AI Workloads | 2024-2025 | Cloud RA | [MS Learn](https://learn.microsoft.com/en-us/azure/well-architected/ai/) · [Application design](https://learn.microsoft.com/en-us/azure/well-architected/ai/application-design) | skills/system_design_and_management §2.4 |
+| AWS WAF — ML Lens | 2025 update | Cloud RA | [AWS Docs](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html) | skills/system_design_and_management §2.4 |
+| AWS WAF — Generative AI Lens | 2024 | Cloud RA | [AWS Docs](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html) · [AWS Blog](https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/) | skills/system_design_and_management §2.4 |
+| AWS re:Invent 2025. *Three New Well-Architected Lenses (incl. Responsible AI)* | 2025 | Cloud RA update | [AWS Blog](https://aws.amazon.com/blogs/architecture/architecting-for-ai-excellence-aws-launches-three-well-architected-lenses-at-reinvent-2025/) · [InfoQ](https://www.infoq.com/news/2025/12/aws-expands-well-architected/) | skills/system_design_and_management §2.4 |
+| AWS CAF for AI/ML/GenAI | 2024-2025 | Cloud adoption framework | [AWS Docs](https://docs.aws.amazon.com/whitepapers/latest/aws-caf-for-ai/aws-caf-for-ai.html) | skills/system_design_and_management §2.4 |
+| Google Cloud AI Adoption Framework | 2024-2025 | Cloud framework | [GC Whitepaper](https://cloud.google.com/resources/cloud-ai-adoption-framework-whitepaper) | skills/system_design_and_management §2.4 |
+| Google Cloud Well-Architected Framework — AI & ML perspective | 2024-2025 | Cloud RA | [GC Docs](https://docs.cloud.google.com/architecture/framework/perspectives/ai-ml) | skills/system_design_and_management §2.4 |
+| Google Cloud. *RAG Architecture with Gemini Enterprise on Vertex AI* | 2024-2025 | RAG reference | [GC Docs](https://docs.cloud.google.com/architecture/rag-genai-gemini-enterprise-vertexai) · [Vector Search RAG](https://docs.cloud.google.com/architecture/gen-ai-rag-vertex-ai-vector-search) | skills/system_design_and_management §2.4 |
+| NVIDIA. *Enterprise Reference Architecture whitepaper* | May 2025 | Hardware-first RA | [NVIDIA PDF](https://docs.nvidia.com/enterprise-reference-architectures/white-paper.pdf) · [NVIDIA overview](https://www.nvidia.com/en-us/technologies/enterprise-reference-architectures/) · [AI Factory whitepaper](https://docs.nvidia.com/ai-enterprise/planning-resource/ai-factory-white-paper/latest/index.html) | skills/system_design_and_management §2.4 |
+| ADR community resources (Nygard style, MADR, Y-Statements) | ongoing | ADR canonical site | [adr.github.io](https://adr.github.io/) · [MADR](https://adr.github.io/madr/) · [Templates](https://adr.github.io/adr-templates/) | skills/system_design_and_management §2.5 |
+| joelparkerhenderson/architecture-decision-record | ongoing | Practical examples | [GitHub](https://github.com/joelparkerhenderson/architecture-decision-record) | skills/system_design_and_management §2.5 |
+| Martin Fowler. *Architecture Decision Record* | ongoing | Practitioner | [bliki](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html) | skills/system_design_and_management §2.5 |
+| AWS Prescriptive Guidance — ADR process | 2024 | AWS guidance | [AWS Docs](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html) · [Best practices](https://aws.amazon.com/blogs/architecture/master-architecture-decision-records-adrs-best-practices-for-effective-decision-making/) | skills/system_design_and_management §2.5 |
+| Azure WAF. *Maintain an ADR* | 2024 | MS guidance | [MS Learn](https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record) | skills/system_design_and_management §2.5 |
+| Kreuzberger, Kühl, Hirschl. *MLOps: Overview, Definition, and Architecture* | 2022 | Most-cited MLOps paper | [arXiv](https://arxiv.org/abs/2205.02302) | skills/system_design_and_management §2.5 |
+| Kästner (CMU). *Software Engineering for AI/ML* (SEAI course) | ongoing | Course materials | [ckaestne.github.io/seai](https://ckaestne.github.io/seai/) | skills/system_design_and_management §2.5 |
+| MLIP-CMU book. *Machine Learning in Production* | ongoing | Online book | [mlip-cmu.github.io](https://mlip-cmu.github.io/book/) | skills/system_design_and_management §2.5 |
+| OMG. *SysML v2 specification* | adopted Jul 2025; spec Sep 2025 | Modeling notation | [OMG](https://www.omg.org/sysml/sysmlv2/) · [DoD transition](https://www.cto.mil/wp-content/uploads/2025/02/SysML-v2-TransitionApproach-1.3.pdf) · [Sparx MBSE](https://sparxsystems.com/mbse/sysml2/) | skills/system_design_and_management §2.6 |
+| OntoUML / UFO (Guizzardi et al.) | ongoing | Ontology-UML | [Wikipedia](https://en.wikipedia.org/wiki/OntoUML) · [Ali & Bork CAiSE 2024](https://link.springer.com/chapter/10.1007/978-3-031-61057-8_7) · [ontouml-models](https://github.com/OntoUML/ontouml-models) | skills/system_design_and_management §2.6 |
+| ArchiMate Next (Snapshot 1) | 2025 | EA notation refresh | [Visual Paradigm preview](https://archimate.visual-paradigm.com/2026/02/10/archimate-next-a-new-era-in-enterprise-architecture-modeling/) | skills/system_design_and_management §2.6 |
+
+## System Dynamics for AI Systems (SDM Lens)
+
+SDM-skill references — Forrester/Sterman/Meadows tradition applied to AI.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Forrester. *Industrial Dynamics* | 1961 (foundational) | Origin of SD | [MIT Press](https://mitpress.mit.edu/9780262560016/industrial-dynamics/) | skills/system_design_and_management §3.1 |
+| Sterman. *Business Dynamics: Systems Thinking and Modeling* | 2000 (foundational) | SD textbook | [McGraw-Hill](https://www.mhprofessional.com/business-dynamics-systems-thinking-and-modeling-for-a-complex-world-9780072389159-usa) | skills/system_design_and_management §3.1 |
+| Meadows. *Thinking in Systems* | 2008 (foundational) | Accessible introduction | [Chelsea Green](https://www.chelseagreen.com/product/thinking-in-systems/) | skills/system_design_and_management §3.1 |
+| Meadows. *Leverage Points — Places to Intervene in a System* | 1999 (foundational) | Leverage-point framework | [donellameadows.org](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) | skills/system_design_and_management §3.1 |
+| Repenning & Sterman. *Nobody Ever Gets Credit for Fixing Problems That Never Happened* | 2001 | MIT SMR, capability trap | [Sloan Review](https://sloanreview.mit.edu/article/nobody-ever-gets-credit-for-fixing-problems-that-never-happened-creating-and-sustaining-process-improvement/) | skills/system_design_and_management §3.1 |
+| MIT System Dynamics Group | ongoing | MIT group | [systemdynamics.mit.edu](https://systemdynamics.mit.edu/) | skills/system_design_and_management §3.1 |
+| System Dynamics Society | ongoing | Professional society | [systemdynamics.org](https://systemdynamics.org/) | skills/system_design_and_management §3.1 |
+| John Sterman MIT Sloan profile | ongoing | Faculty | [Sloan](https://mitsloan.mit.edu/faculty/directory/john-d-sterman) | skills/system_design_and_management §3.1 |
+| Nelson Repenning MIT Sloan profile | ongoing | Faculty | [Sloan](https://mitsloan.mit.edu/faculty/directory/nelson-p-repenning) | skills/system_design_and_management §3.1 |
+| Hazhir Rahmandad MIT Sloan profile | ongoing | Faculty | [Sloan](https://mitsloan.mit.edu/faculty/directory/hazhir-rahmandad) | skills/system_design_and_management §3.1 |
+| Ensign et al. *Runaway Feedback Loops in Predictive Policing* (FAT* 2018) | 2018 | Foundational feedback trap | [arXiv](https://arxiv.org/abs/1706.09847) | skills/system_design_and_management §3.2 |
+| Perdomo, Zrnic, Mendler-Dünner, Hardt. *Performative Prediction* (ICML 2020) | 2020 | Self-fulfilling loop formalization | [arXiv](https://arxiv.org/abs/2002.06673) | skills/system_design_and_management §3.2 |
+| Manheim & Garrabrant. *Categorizing Variants of Goodhart's Law* | 2018 | Goodhart taxonomy | [arXiv](https://arxiv.org/abs/1803.04585) | skills/system_design_and_management §3.2 |
+| Taori & Hashimoto. *Data Feedback Loops* (ICML 2023) | 2023 | Data-loop dynamics | [arXiv](https://arxiv.org/abs/2209.03942) | skills/system_design_and_management §3.2 |
+| Wyllie et al. *Fairness Feedback Loops* (FAccT 2024) | 2024 | Fairness drift | [arXiv](https://arxiv.org/abs/2403.07857) | skills/system_design_and_management §3.2 |
+| Chaney, Stewart, Engelhardt. *How Algorithmic Confounding Amplifies Homogenization* (RecSys 2018) | 2018 | Recommender dynamics | [arXiv](https://arxiv.org/abs/1710.11214) | skills/system_design_and_management §3.2 |
+| Jiang, Adomavicius et al. (Google). *Degenerate Feedback Loops in Recommender Systems* (AIES 2019) | 2019 | Degenerate loops | [arXiv](https://arxiv.org/abs/1902.10730) | skills/system_design_and_management §3.2 |
+| Mansoury et al. *Feedback Loop and Bias Amplification in Recommender Systems* (CIKM 2020) | 2020 | Popularity bias | [arXiv](https://arxiv.org/abs/2007.13019) | skills/system_design_and_management §3.2 |
+| Mladenov, Boutilier et al. *Optimizing Long-term Social Welfare in Recommender Systems* (ICML 2020) | 2020 | Long-horizon welfare | [arXiv](https://arxiv.org/abs/2008.00104) | skills/system_design_and_management §3.2 |
+| Shumailov et al. *AI Models Collapse When Trained on Recursively Generated Data* | Nature 2024 | Model collapse | [Nature](https://www.nature.com/articles/s41586-024-07566-y) · [arXiv 2023 preprint](https://arxiv.org/abs/2305.17493) | skills/system_design_and_management §3.2 |
+| Dohmatob et al. *A Tale of Tails — Model Collapse* | 2024 | Theoretical characterization | [arXiv](https://arxiv.org/abs/2402.07043) | skills/system_design_and_management §3.2 |
+| Gerstgrasser et al. *Is Model Collapse Inevitable?* | 2024 | Mitigation | [arXiv](https://arxiv.org/abs/2404.01413) | skills/system_design_and_management §3.2 |
+| Alemohammad et al. *Self-Consuming Generative Models Go MAD* (ICLR 2024) | 2024 | Self-consumption | [arXiv](https://arxiv.org/abs/2307.01850) | skills/system_design_and_management §3.2 |
+| Villalobos et al. *Will We Run Out of Data?* | 2024 | Data-wall limits to growth | [arXiv](https://arxiv.org/abs/2211.04325) | skills/system_design_and_management §3.3 |
+
+## ML Technical Debt and Lifecycle (SDM Lens)
+
+SDM-skill references — canonical and follow-on tech-debt / lifecycle / MLOps-maturity sources.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Sculley et al. *Hidden Technical Debt in Machine Learning Systems* | NeurIPS 2015 (canonical) | 9 debt categories | [NeurIPS](https://papers.nips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html) · [Google Research](https://research.google/pubs/pub43146/) · [PDF](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) | skills/system_design_and_management §4.1 |
+| Sculley et al. *ML: The High-Interest Credit Card of Technical Debt* (NIPS Workshop 2014) | 2014 foundational | Precursor to 2015 paper | [Google Research](https://research.google/pubs/machine-learning-the-high-interest-credit-card-of-technical-debt/) | skills/system_design_and_management §4.1 |
+| Amershi, Begel, Bird, DeLine, Gall, Kamar, Nagappan, Nushi, Zimmermann. *Software Engineering for Machine Learning: A Case Study* (ICSE-SEIP 2019) | 2019 | Microsoft 9-stage workflow | [MS Research](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) · [IEEE](https://ieeexplore.ieee.org/document/8804457) | skills/system_design_and_management §4.2 |
+| Tang et al. *Empirical Study on Program Failures of Deep Learning Jobs* (ICSE 2020) | 2020 | Deep-learning failure modes | [arXiv](https://arxiv.org/abs/2008.12005) | skills/system_design_and_management §4.1 |
+| Foidl, Felderer, Ramler. *Risk-oriented technical debt in ML* | 2022 | Risk reframing | [arXiv](https://arxiv.org/abs/2106.09524) | skills/system_design_and_management §4.1 |
+| Liu et al. *Towards Understanding Challenges Faced by ML Developers* | 2021 | Developer challenges | [arXiv](https://arxiv.org/abs/2103.14946) | skills/system_design_and_management §4.1 |
+| Recupito et al. *Technical Debt in AI-Enabled Systems* | 2023 | Extension | [arXiv](https://arxiv.org/abs/2304.11657) | skills/system_design_and_management §4.1 |
+| OBrien et al. *23 Shades of Self-Admitted Tech Debt in ML* | 2022 | Self-admitted debt | [arXiv](https://arxiv.org/abs/2205.13938) | skills/system_design_and_management §4.1 |
+| Bogner, Verdecchia et al. ML tech-debt industry survey | 2021-2022 | Survey | [arXiv](https://arxiv.org/abs/2206.00158) · [ACM systematic review](https://dl.acm.org/doi/10.1145/3453478) | skills/system_design_and_management §4.1 |
+| Alahdab & Calikli. ML tech-debt taxonomy | 2021 | Taxonomy | [IEEE](https://ieeexplore.ieee.org/document/9609153) | skills/system_design_and_management §4.1 |
+| Polyzotis et al. *Data Management Challenges in Production ML* (VLDB 2018) | 2018 | Data lifecycle canon | [VLDB PDF](https://www.vldb.org/pvldb/vol11/p2081-polyzotis.pdf) · [SIGMOD 2017](https://dl.acm.org/doi/10.1145/3035918.3054782) | skills/system_design_and_management §4.2 |
+| Schelter et al. *Deequ — Automating Large-Scale Data Quality Verification* | VLDB 2018 | Data quality | [VLDB PDF](https://www.vldb.org/pvldb/vol11/p1781-schelter.pdf) · [GitHub](https://github.com/awslabs/deequ) | skills/system_design_and_management §4.2, §4.6 |
+| Breck et al. *Data Validation for ML* (SysML 2019) | 2019 | TFDV | [Google Research](https://research.google/pubs/pub47967/) · [TFDV](https://www.tensorflow.org/tfx/data_validation/get_started) | skills/system_design_and_management §4.2, §4.6 |
+| Breck et al. *The ML Test Score* | 2017 | Rubric for ML production | [Google Research](https://research.google/pubs/pub46555/) | skills/system_design_and_management §4.5, §4.6 |
+| Paleyes et al. *Challenges in Deploying Machine Learning* | 2020 | Deployment survey | [arXiv](https://arxiv.org/abs/2010.12869) | skills/system_design_and_management §4.2 |
+| Klaise et al. *Monitoring and Explainability of Models in Production* | 2021 | Monitoring | [arXiv](https://arxiv.org/abs/2103.08937) | skills/system_design_and_management §4.5 |
+| Zinkevich. *Rules of Machine Learning* | ongoing | Google best practices | [Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml) | skills/system_design_and_management §4.5 |
+| Renggli et al. *Data Debugging survey* | 2021 | Data-debug methods | [arXiv](https://arxiv.org/abs/2111.14793) | skills/system_design_and_management §4.6 |
+| Great Expectations | ongoing | Data validation tooling | [GitHub](https://github.com/great-expectations/great_expectations) | skills/system_design_and_management §4.6 |
+| ISO/IEC 5338:2023. *AI System Life Cycle Processes* | Dec 2023 | AI lifecycle standard | [ISO](https://www.iso.org/standard/81118.html) · [SIG overview](https://www.softwareimprovementgroup.com/iso-5338-get-to-know-the-global-standard-on-ai-systems/) · [IEC blog](https://www.iec.ch/blog/new-international-standard-ai-system-life-cycle-processes) · [Deploy Securely breakdown](https://blog.stackaware.com/p/iso-5338-42001-ai-risk-management-lifecycle) | skills/system_design_and_management §4.3 |
+| ISO/IEC 42001:2023 (AI management system) | 2023 | Governance standard | [ISO](https://www.iso.org/standard/81702.html) | skills/system_design_and_management §4.3, regulatory_appendix |
+| ISO/IEC 23053 (AI/ML framework) | ongoing | AI framework | [ISO](https://www.iso.org/standard/74438.html) | skills/system_design_and_management §4.3 |
+| ISO/IEC/IEEE 15288 (systems-engineering lifecycle) | ongoing | Generic lifecycle | [IEEE](https://standards.ieee.org/ieee/15288/5671/) | skills/system_design_and_management §4.3 |
+| Google MLOps Maturity Model | ongoing | Cloud reference | [Google Cloud](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) | skills/system_design_and_management §4.4 |
+| Microsoft MLOps Maturity Model | ongoing | MS reference | [MS Learn](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model) | skills/system_design_and_management §4.4 |
+| Thoughtworks CD4ML | ongoing | Three-axis CI/CD | [Martin Fowler](https://martinfowler.com/articles/cd4ml.html) | skills/system_design_and_management §4.4 |
+| Microsoft TDSP | ongoing | Team Data Science Process | [MS Learn](https://learn.microsoft.com/en-us/azure/architecture/data-science-process/overview) | skills/system_design_and_management §4.4 |
+| CRISP-DM | 1996 (foundational) | ML process reference | [PDF](https://www.the-modeling-agency.com/crisp-dm.pdf) | skills/system_design_and_management §4.4 |
+| ml-ops.org community reference | ongoing | Community site | [ml-ops.org](https://ml-ops.org/) · [Principles](https://ml-ops.org/content/mlops-principles) | skills/system_design_and_management §4.4 |
+| OpenAI model deprecations | ongoing | Vendor policy | [OpenAI Docs](https://platform.openai.com/docs/deprecations) | skills/system_design_and_management §4.5 |
+| Anthropic model deprecations | ongoing | Vendor policy | [Anthropic Docs](https://docs.anthropic.com/en/docs/about-claude/model-deprecations) | skills/system_design_and_management §4.5 |
+| Netflix. *ML Retraining Pipelines* | ongoing | Practitioner | [NetflixTech](https://netflixtechblog.com/machine-learning-model-retraining-pipelines-at-netflix) | skills/system_design_and_management §4.5 |
+
+## ML Platforms, Team Topologies, AI Organizational Design (SDM Lens)
+
+SDM-skill references — platform engineering and organizational design for AI.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Skelton & Pais. *Team Topologies* (IT Revolution) | 2019 (foundational) | Four team types | [teamtopologies.com](https://teamtopologies.com/book) · [key concepts](https://teamtopologies.com/key-concepts) · [news](https://teamtopologies.com/news) | skills/system_design_and_management §5.1 |
+| Adidas case study — *Transforming Through Team Topologies and Platform Engineering* | 2nd-ed case study | Team Topologies × platform | [Team Topologies](https://teamtopologies.com/2nd-edition-case-studies/adidas-transforming-through-team-topologies-and-platform-engineering) | skills/system_design_and_management §5.1 |
+| Kedro Blog. *Practical Guide to Team Topologies for ML Platform Teams* | 2024-2025 | Practitioner mapping | [Kedro](https://kedro.org/blog/a-practical-guide-to-team-topologies-for-ml-platform-teams) | skills/system_design_and_management §5.1 |
+| MLOps Community. *Building Neoway's ML Platform with Team-First Approach* | 2024-2025 | Case study | [MLOps Community](https://mlops.community/building-neoways-ml-platform-with-a-team-first-approach-and-product-thinking/) | skills/system_design_and_management §5.1 |
+| Rafay. *Navigating MLOps for Platform Teams* | 2025 | Platform practices | [Rafay](https://rafay.co/ai-and-cloud-native-blog/navigating-mlops-for-platform-teams-key-challenges-and-emerging-best-practices) | skills/system_design_and_management §5.1 |
+| Clarifai. *End-to-End MLOps Architecture & Workflow* | 2025 | Architecture guide | [Clarifai](https://www.clarifai.com/blog/end-to-end-mlops) | skills/system_design_and_management §5.1 |
+| Cloud Native Now. *Why Kubernetes 1.33 Is a Turning Point for MLOps and Platform Engineering* | 2025 | K8s + MLOps | [CN Now](https://cloudnativenow.com/features/why-kubernetes-1-33-is-a-turning-point-for-mlops-and-platform-engineering-2/) | skills/system_design_and_management §5.1 |
+| Dussol. *Team Topologies: The Blueprint for Cloud & AI Transformations* | 2024 | Practitioner blueprint | [Medium](https://medium.com/@christian.dussol/team-topologies-the-blueprint-for-cloud-ai-transformations-e255475d50a0) | skills/system_design_and_management §5.1 |
+| Thoughtworks. *Team Topologies × MLOps* | 2024 | Practitioner | [Thoughtworks](https://www.thoughtworks.com/insights/blog/team-topologies-mlops) | skills/system_design_and_management §5.1 |
+| CNCF TAG App Delivery. *Platforms for AI* whitepaper | 2024 | IDP for AI | [CNCF whitepaper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) | skills/system_design_and_management §5.2 |
+| Backstage docs (Spotify) | ongoing | IDP base | [Backstage](https://backstage.io/docs/features/software-catalog/) · [Spotify origin](https://engineering.atspotify.com/2020/04/how-we-use-backstage-at-spotify/) | skills/system_design_and_management §5.2 |
+| Port — AI Platform Engineering | ongoing | IDP vendor | [Port](https://www.getport.io/blog/ai-platform-engineering) | skills/system_design_and_management §5.2 |
+| Humanitec — AI/ML Platform Engineering | ongoing | IDP vendor | [Humanitec](https://humanitec.com/blog/ai-ml-platform-engineering) | skills/system_design_and_management §5.2 |
+| Thoughtworks Tech Radar (Vol 29-31) | 2024-2025 | Tool radar | [Radar](https://www.thoughtworks.com/radar) | skills/system_design_and_management §5.2 |
+| CNCF Platform Engineering Maturity Model | 2024 | Maturity model | [CNCF](https://www.cncf.io/reports/platform-engineering-maturity-model/) | skills/system_design_and_management §5.2 |
+| DORA (Google Cloud) | ongoing | DevOps research | [dora.dev](https://dora.dev) · [AI-specific DORA](https://dora.dev/ai) | skills/system_design_and_management §5.7 |
+| ACM Queue — ML team organization | 2024 | Academic-practitioner | [ACM Queue](https://queue.acm.org/detail.cfm?id=3643134) | skills/system_design_and_management §5.1 |
+| Uber Michelangelo (2017 origin + 2024 update) | 2017-2024 | ML platform | [2017 post](https://www.uber.com/blog/michelangelo-machine-learning-platform/) · [2024 from predictive to generative](https://www.uber.com/blog/from-predictive-to-generative-ai/) · [Flexibility at Scale](https://www.uber.com/us/en/blog/michelangelo-machine-learning-model-representation/) · [Palette feature store](https://www.infoq.com/presentations/michelangelo-palette-uber/) | skills/system_design_and_management §5.3 |
+| Airbnb Bighead / Chronon / Zipline | 2018-2023 | ML platform | [Databricks session](https://www.databricks.com/session/bighead-airbnbs-end-to-end-machine-learning-platform) · [AIcouncil talk](https://aicouncil.com/talks/bighead-airbnbs-end-to-end-machine-learning-platform) · [Strata](https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/detail/69383.html) · [DataCouncil PDF](https://www.datacouncil.ai/hubfs/DataEngConf/Data%20Council/Slides%20SF%2019/Bighead%20-%20Airbnb's%20end-to-end%20Machine%20Learning%20Platform.pdf) · [Zipline](https://www.thestrangeloop.com/2019/zipline---a-declarative-feature-engineering-library.html) | skills/system_design_and_management §5.3 |
+| LinkedIn Pro-ML / Feathr / DARWIN | 2019-2022 | ML platform | [Engineering blog](https://engineering.linkedin.com/blog/topic/ai) · [Scaling ML Productivity at LinkedIn](https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin) · [Feathr](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr) | skills/system_design_and_management §5.3 |
+| Netflix Metaflow / Maestro | 2021-2024 | ML platform | [Metaflow 2.0](https://netflixtechblog.com/metaflow-2-0-and-beyond) · [Maestro](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator) | skills/system_design_and_management §5.3 |
+| Meta FBLearner Flow / Ax / Looper | 2016-2022 | ML platform | [FBLearner launch](https://engineering.fb.com/2016/05/09/core-infra/introducing-fblearner-flow/) · [Evolution recap](https://twimlai.com/article/the-evolution-of-machine-learning-platforms-at-facebook-webcast-recap/) · [Looper](https://engineering.fb.com/2022/09/12/production-engineering/looper-meta-ai-optimization/) · [Ax](https://ai.meta.com/tools/ax/) · [Next-step hardware](https://engineering.fb.com/2018/03/20/ml-applications/the-next-step-in-facebook-s-ai-hardware-infrastructure/) | skills/system_design_and_management §5.3 |
+| Spotify Hendrix / Klio / ML Home | 2023 | ML platform | [Spotify Engineering](https://engineering.atspotify.com/2023/06/spotifys-new-ml-platform/) | skills/system_design_and_management §5.3 |
+| Pinterest MLEnv | 2021+ | ML platform | [Medium](https://medium.com/pinterest-engineering/mlenv-standardizing-ml-at-pinterest) | skills/system_design_and_management §5.3 |
+| Shopify Merlin | — | ML platform | [Shopify Engineering](https://shopify.engineering/merlin-shopifys-new-machine-learning-platform) | skills/system_design_and_management §5.3 |
+| DoorDash Fabricator | 2022 | Feature engineering framework | [DoorDash Engineering](https://doordash.engineering/2022/10/04/introducing-fabricator-a-declarative-feature-engineering-framework/) | skills/system_design_and_management §5.3 |
+| Instacart Griffin | — | ML platform rebuild | [tech.instacart.com](https://tech.instacart.com/griffin-how-we-rebuilt-instacarts-ml-platform) | skills/system_design_and_management §5.3 |
+| Conway. *How Do Committees Invent?* | 1968 (foundational) | Conway's Law origin | [melconway.com](https://www.melconway.com/Home/Committees_Paper.html) | skills/system_design_and_management §5.4 |
+| Martin Fowler on Conway's Law | ongoing | Practitioner | [Fowler bliki](https://martinfowler.com/bliki/ConwaysLaw.html) | skills/system_design_and_management §5.4 |
+| Dehghani. *Data Mesh Principles* | 2019 | Data mesh / Conway-driven | [Fowler](https://martinfowler.com/articles/data-mesh-principles.html) · [datamesh-architecture.com](https://www.datamesh-architecture.com) | skills/system_design_and_management §5.4 |
+| Thoughtworks. *Inverse Conway for AI* | 2024 | Case-study flavor | [Thoughtworks](https://www.thoughtworks.com/insights/blog/customer-experience/inverse-conway-maneuver-ai) | skills/system_design_and_management §5.4 |
+| McKinsey. *State of AI* (annual) | 2024-2025 | Analyst report | [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) | skills/system_design_and_management §5.5 |
+| HBR Fountaine, McCarthy, Saleh. *Building the AI-Powered Organization* | 2023 | Org pattern | [HBR](https://hbr.org/2023/07/building-the-ai-powered-organization) | skills/system_design_and_management §5.5 |
+| a16z. *Emerging Architectures for LLM Applications* | 2024 | VC synthesis | [a16z](https://a16z.com/emerging-architectures-for-llm-applications/) | skills/system_design_and_management §5.5 |
+| O'Reilly. *AI Adoption in the Enterprise 2024* | 2024 | Survey | [O'Reilly](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2024/) | skills/system_design_and_management §5.5 |
+| Chip Huyen. *Building a GenAI Platform* | July 2024 | Practitioner | [huyenchip.com](https://huyenchip.com/2024/07/25/genai-platform.html) | skills/system_design_and_management §5.6 |
+| Eugene Yan. *LLM Engineering* | 2024 | Practitioner | [eugeneyan.com](https://eugeneyan.com/writing/llm-engineering/) | skills/system_design_and_management §5.6 |
+| Roadmap.sh — AI Engineer / MLOps | ongoing | Role maps | [AI Engineer](https://roadmap.sh/ai-engineer) · [MLOps](https://roadmap.sh/mlops) | skills/system_design_and_management §5.6 |
+| Pragmatic Engineer. *AI Engineers* | 2024 | Newsletter | [Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/ai-engineers) | skills/system_design_and_management §5.6 |
+| SPACE framework (Forsgren et al.) | 2021 (foundational) | ACM Queue | [ACM Queue](https://queue.acm.org/detail.cfm?id=3454124) | skills/system_design_and_management §5.7 |
+| DevEx framework (Noda, Forsgren) | 2023 | DevEx research | [getdx.com](https://getdx.com/research/devex) | skills/system_design_and_management §5.7 |
+| Thoughtworks. *DORA for ML* | 2024 | DORA adaptation | [Thoughtworks](https://www.thoughtworks.com/insights/blog/engineering-effectiveness/dora-for-ml) | skills/system_design_and_management §5.7 |
+
+## AI SRE, Safety Engineering, STAMP (SDM Lens)
+
+SDM-skill references — reliability and safety engineering applied to AI.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Leveson. *Engineering a Safer World* (MIT Press, open access) | 2012 (foundational) | STAMP origin | [MIT Press](https://mitpress.mit.edu/9780262533690/engineering-a-safer-world/) | skills/system_design_and_management §6.1 |
+| Leveson & Thomas. *STPA Handbook* | 2018 | Canonical STPA | [MIT PDF](http://sunnyday.mit.edu/STPA-Handbook.pdf) | skills/system_design_and_management §6.1 |
+| MIT PSAS (Leveson group) | ongoing | STAMP research home | [sunnyday.mit.edu](http://sunnyday.mit.edu/) · [PSAS site](https://psas.scripts.mit.edu/home/) · [Publications](http://sunnyday.mit.edu/STAMP-publications.html) | skills/system_design_and_management §6.1 |
+| UL SIS. *Understanding STAMP, STPA, CAST* | 2024 | Introduction | [UL SIS](https://www.ul.com/sis/blog/introduction-to-stamp-stpa-and-cast) | skills/system_design_and_management §6.1 |
+| Dobbe. *System Safety and Artificial Intelligence* | 2022 | Overview paper | [arXiv](https://arxiv.org/abs/2302.10588) | skills/system_design_and_management §6.1 |
+| Rismani et al. *From Plane Crashes to Algorithmic Harm* (CHI 2023) | 2023 | STPA for ML | [arXiv](https://arxiv.org/abs/2211.03315) | skills/system_design_and_management §6.1 |
+| Rismani et al. *STPA for ML* (FAccT 2023) | 2023 | STPA for ML | [ACM](https://dl.acm.org/doi/10.1145/3593013.3594064) | skills/system_design_and_management §6.1 |
+| Qi et al. *STPA for Autonomous Driving ML* | 2023 | Applied STPA | [arXiv](https://arxiv.org/abs/2310.03984) | skills/system_design_and_management §6.1 |
+| *STPA for ML Safety* (Safety Science) | 2024 | Academic | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0925753523002771) | skills/system_design_and_management §6.1 |
+| Mylius. *Systematic Hazard Analysis for Frontier AI using STPA* | June 2025 | Frontier-AI STPA | [arXiv 2506.01782](https://arxiv.org/html/2506.01782v1) · [Simon Mylius blog](https://simonmylius.com/blog/stpa) | skills/system_design_and_management §6.1 |
+| *STAMP/STPA Informed Characterization of Factors Leading to Loss of Control in AI Systems* | Dec 2025 | Loss-of-control | [arXiv 2512.17600](https://arxiv.org/abs/2512.17600) · [PDF](https://arxiv.org/pdf/2512.17600) | skills/system_design_and_management §6.1 |
+| STPA-Sec for AI | 2023 | Security extension | [IEEE](https://ieeexplore.ieee.org/document/10207072) | skills/system_design_and_management §6.1 |
+| OMRON Technics. *STAMP/STPA in PCB Inspection System Development* | — | Industrial case | [OMRON](https://www.omron.com/global/en/technology/omrontechnics/vol53/006.html) | skills/system_design_and_management §6.1 |
+| Google. *Site Reliability Engineering* (free online) | 2016 (foundational) | SRE book | [sre.google](https://sre.google/sre-book/table-of-contents/) | skills/system_design_and_management §6.2 |
+| Google. *The Site Reliability Workbook* (free online) | 2018 (foundational) | Workbook | [sre.google](https://sre.google/workbook/table-of-contents/) | skills/system_design_and_management §6.2 |
+| USENIX SREcon 2023 Americas | 2023 | AI/ML track | [USENIX](https://www.usenix.org/conference/srecon23americas) | skills/system_design_and_management §6.2 |
+| USENIX SREcon 2024 Americas | 2024 | AI/ML track | [USENIX](https://www.usenix.org/conference/srecon24americas) | skills/system_design_and_management §6.2 |
+| Meta. *MLOps at Scale* | 2022 | Practitioner | [Meta Engineering](https://engineering.fb.com/2022/09/02/ml-applications/mlops-ml-operations-at-scale/) | skills/system_design_and_management §6.2 |
+| Applied ML at Facebook — Datacenter Infrastructure Perspective | 2018 foundational | Hazelwood et al. | [PDF](https://abelay.github.io/6828seminar/papers/hazelwood:ml.pdf) | skills/system_design_and_management §6.2 |
+| Microsoft Azure Well-Architected AI | 2024 | Microsoft AI WAF | [MS Learn](https://learn.microsoft.com/en-us/azure/well-architected/ai/) | skills/system_design_and_management §6.2 |
+| Netflix Simian Army | 2011 (foundational) | Chaos engineering origin | [NetflixTech](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116) | skills/system_design_and_management §6.3 |
+| Principles of Chaos Engineering | 2017 (foundational) | Chaos manifesto | [principlesofchaos.org](https://principlesofchaos.org/) | skills/system_design_and_management §6.3 |
+| Gremlin | ongoing | Chaos tooling | [Gremlin](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/) | skills/system_design_and_management §6.3 |
+| Chaos Mesh | ongoing | K8s chaos | [chaos-mesh.org](https://chaos-mesh.org/) | skills/system_design_and_management §6.3 |
+| PromptBench | 2023 | Prompt-perturbation testing | [arXiv](https://arxiv.org/abs/2306.04528) · [GitHub](https://github.com/microsoft/promptbench) | skills/system_design_and_management §6.3 |
+| DecodingTrust | 2023 | LLM trustworthiness | [arXiv](https://arxiv.org/abs/2306.11698) | skills/system_design_and_management §6.3 |
+| HarmBench | 2024 | Red-teaming benchmark | [arXiv](https://arxiv.org/abs/2402.04249) | skills/system_design_and_management §6.3 |
+| NIST AI RMF (referenced for chaos-adjacent testing) | 2023 | NIST | [NIST](https://www.nist.gov/itl/ai-risk-management-framework) | skills/system_design_and_management §6.3 |
+| AI Red-Teaming Taxonomy | 2023 | Methodology | [arXiv](https://arxiv.org/abs/2310.16985) | skills/system_design_and_management §6.3 |
+| Partnership on AI Incident Database | ongoing | Public incidents | [incidentdatabase.ai](https://incidentdatabase.ai/) · [PAI workstream](https://partnershiponai.org/workstream/ai-incidents-database/) | skills/system_design_and_management §6.4 |
+| AIAAIC | ongoing | Public incidents | [aiaaic.org](https://www.aiaaic.org/) | skills/system_design_and_management §6.4 |
+| AVID (AI Vulnerability Database) | ongoing | Vulnerability DB | [avidml.org](https://avidml.org/) · [database](https://avidml.org/database/) | skills/system_design_and_management §6.4 |
+| MITRE ATLAS | ongoing | Adversarial threat taxonomy | [atlas.mitre.org](https://atlas.mitre.org/) | skills/system_design_and_management §6.4 |
+| OWASP Top 10 for LLM Applications | 2023-2025 | Threat taxonomy | [OWASP GenAI](https://genai.owasp.org/llm-top-10/) | skills/system_design_and_management §6.4 |
+| OECD AI Incidents Monitor | ongoing | Global index | [OECD](https://oecd.ai/en/incidents) | skills/system_design_and_management §6.4 |
+| Galactica demo postmortem (media) | 2022 | Incident coverage | [The Verge](https://www.theverge.com/2022/11/18/23465274/meta-ai-galactica-demo-paper) | skills/system_design_and_management §6.4 |
+| Bard launch / AI search updates | 2023 | Vendor postmortem-adjacent | [Google Blog](https://blog.google/technology/ai/bard-google-ai-search-updates/) | skills/system_design_and_management §6.4 |
+| GSN Community Standard v3 | ongoing (foundational) | Safety-case notation | [SCSC GSN](https://scsc.uk/gsn) | skills/system_design_and_management §6.5 |
+| Bloomfield & Rushby. *Assurance 2.0* | 2023 | Assurance methodology | [arXiv](https://arxiv.org/abs/2305.10295) | skills/system_design_and_management §6.5 |
+| Clymer et al. *Safety Cases for Frontier AI* | 2024 | Canonical frontier-AI safety case | [arXiv](https://arxiv.org/abs/2311.14522) | skills/system_design_and_management §6.5 |
+| UK AI Safety Institute — *Approach to Evaluations* | 2024 | Govt approach | [gov.uk](https://www.gov.uk/government/publications/ai-safety-institute-approach-to-evaluations) | skills/system_design_and_management §6.5 |
+| FDA Software as a Medical Device (SaMD) | ongoing | Regulatory baseline | [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd) | skills/system_design_and_management §6.5 |
+| Hollnagel — Resilience Engineering | ongoing | Foundational | [erikhollnagel.com](https://www.erikhollnagel.com/) · [Resilient Healthcare](https://resilienthealthcare.net/) | skills/system_design_and_management §6.6 |
+| *Graceful Degradation in ML Systems* | 2023 | Arxiv | [arXiv](https://arxiv.org/abs/2308.14761) | skills/system_design_and_management §6.6 |
+
 ## AI Ethics, Risk, and Regulatory Frameworks (Cross-Axis)
 
 Cross-axis references used in `docs/skills/regulatory_appendix.md`. Applicable to both Sales and Productization.

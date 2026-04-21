@@ -467,7 +467,9 @@ The selling and investment halves share more substrate than they appear to:
 
 ## 8. Further Reading (Meta-Level)
 
-- `docs/skills/productization_skill.md` — the complementary lens; nearly every tool in §2-3 above lives inside a stack engineered per that document.
+- `docs/skills/productization_skill.md` — the Productization lens; nearly every tool in §2-3 above lives inside a stack engineered per that document.
+- `docs/skills/system_design_and_management.md` — the SDM lens; whenever a Sales decision has architectural, lifecycle, or feedback-loop implications (almost always), the SDM doc is the right companion. Examples: §2 targeting + §6.1 STAMP for customer-impact hazards; §2.5 MMM + §3 system dynamics for budget feedback loops; §3.1 VC screening + §2 architecture for what investors will probe.
 - `docs/deep_dive/DD6_ai_marketing_foundations.md` — cross-method theoretical substrate; Bayesian + causal + RL + representation mapping.
+- `docs/skills/regulatory_appendix.md` — regulatory obligations that cut across every sub-skill.
 - `docs/CATALOG.md` — paper-level index; all new references added via this skill doc are back-listed there.
 - `INDEX.md` — topic and domain navigation; each skill sub-section has a direct mapping in the domain axis.

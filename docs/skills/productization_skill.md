@@ -712,7 +712,12 @@ The last three output bullets are the productization acceptance criteria. A pape
 
 ## 8. Further Reading
 
-- `docs/skills/sales_skill.md` — the complementary lens
+- `docs/skills/sales_skill.md` — the Sales lens (selling + investment)
+- `docs/skills/system_design_and_management.md` — the SDM lens; productization concerns (what to build, how to ship, how to evaluate) are necessary but not sufficient — the SDM doc adds the *system-level* framing (how the build decomposes, how it evolves, which feedback loops it creates, how it fails). Especially relevant crossover points:
+  - Model engineering (§2) ↔ SDM §2.1 (Crawley-Cameron decomposition) + §2.5 (ADRs for ML) + §3 (system dynamics + Sculley debt categories + feedback-loop inventory)
+  - System engineering (§3) ↔ SDM §5 (platform engineering + Team Topologies) + §6 (SRE, STAMP, incident response)
+  - Product engineering (§4) ↔ SDM §2 (architecture) + §7 (governance as system design)
 - `docs/deep_dive/DD6_ai_marketing_foundations.md` — the theoretical spine for the model layer
-- `docs/deep_dive/DD8_mit_sdm_marketing.md` — the system-architecture spine for the system layer
+- `docs/deep_dive/DD8_mit_sdm_marketing.md` — the system-architecture spine for the system layer (methodological baseline; SDM skill doc is the AI-specific extension)
+- `docs/skills/regulatory_appendix.md` — compliance cutting across both skills
 - `docs/CATALOG.md` — paper-level index; new references from this doc are back-listed under *LLMOps & RAG Engineering*, *AI Product Management*, and *AI Commercialization* sections.

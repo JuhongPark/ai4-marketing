@@ -53,15 +53,19 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 
 ### Skills Axis (`docs/skills/`)
 
-Cross-cutting lens that re-reads the repo by **organizational capability** rather than by marketing domain or AI method. Read these when you want to see the same research from a selling / fundraising / productization perspective.
+Cross-cutting lens that re-reads the repo by **organizational capability** rather than by marketing domain or AI method. Read these when you want to see the same research through a selling / investment / productization / systems-design lens.
+
+**Three-lens framework**: Sales (selling + investment) · Productization (model + system + product engineering) · System Design & Management (architecture + dynamics + lifecycle + platform + SRE + governance).
 
 | File | Topic | Core Coverage |
 |------|-------|----------------|
-| `docs/skills/README.md` | Skills framework: Sales vs. Productization | Scope, boundary rules, dual-listing conventions |
-| `docs/skills/sales_skill.md` | AI for selling + investment | §2 Selling: targeting, recommendation, retention, MMM, viral, sales enablement, **academic GenAI research (Kapoor/Kumar, Hermann/Puntoni, V.Kumar/Kotler, Columbia, Stanford, Wharton)**, **vertical sub-skills (SaaS/PLG, Fintech, Retail/CPG, Healthcare/HCP, Enterprise B2B/ABM)**. §3 Investment: VC screening, due diligence, IR, CFO, commercialization narrative, **PE AI, quant hedge funds, public-equity AI, valuation models, accelerator AI** |
-| `docs/skills/productization_skill.md` | AI product implementation | Model engineering (GNN / RL / Bayesian / LLM / Diffusion / **foundation-model selection**) + System engineering (MLOps / LLMOps / **vector DBs** / RAG / agents / **orchestration frameworks** / **LLM serving** / OPE / **observability** / **evaluation** / **guardrails**) + Product engineering (PRD / PMF / architecture / **HAI UX** / **product telemetry** / **feature flagging**) |
+| `docs/skills/README.md` | Three-lens skills framework | Scope, boundary rules, triangulation heuristics, reading paths |
+| `docs/skills/sales_skill.md` | AI for selling + investment | §2 Selling: targeting, recommendation, retention, MMM, viral, sales enablement, academic GenAI research (Kapoor/Kumar, Hermann/Puntoni, V.Kumar/Kotler, Columbia, Stanford, Wharton), vertical sub-skills (SaaS/PLG, Fintech, Retail/CPG, Healthcare/HCP, Enterprise B2B/ABM). §3 Investment: VC screening, due diligence, IR, CFO, commercialization narrative, PE AI, quant hedge funds, public-equity AI, valuation models, accelerator AI |
+| `docs/skills/productization_skill.md` | AI product implementation | Model engineering (GNN / RL / Bayesian / LLM / Diffusion / foundation-model selection) + System engineering (MLOps / LLMOps / vector DBs / RAG / agents / orchestration / LLM serving / OPE / observability / evaluation / guardrails) + Product engineering (PRD / PMF / architecture / HAI UX / product telemetry / feature flagging) |
+| `docs/skills/system_design_and_management.md` | **AI systems as engineered socio-technical systems (SDM lens)** | §2 Architecture (Crawley-Cameron / OPM ISO 19450:2024 / tradespace / cloud reference architectures / ADRs / SysML v2) · §3 System dynamics (Forrester / Sterman / Meadows; runaway loops, performative prediction, Goodhart, model collapse, capability trap) · §4 Lifecycle and technical debt (Sculley 2015 nine categories, Amershi 2019, ISO 5338, MLOps maturity) · §5 Platform engineering and Team Topologies (Skelton-Pais, CNCF IDP for AI, canonical ML-platform case studies) · §6 SRE, safety, STAMP (Leveson, Mylius 2025) · §7 Governance as system design · §10 sixteen open SDM thesis problems |
 | `docs/skills/regulatory_appendix.md` | Cross-axis regulatory frame | NIST AI RMF + 2024 GenAI Profile, EU AI Act 2025-2027 timeline, FTC Operation AI Comply + COPPA 2025, ISO 42001, US state-law fragmentation, sector-specific nuances, 2026 operating checklist |
-| `docs/skills/RESEARCH_PLAN.md` | Follow-up research plan | Coverage-gap analysis and prioritization for future skills-axis extensions |
+| `docs/skills/RESEARCH_PLAN.md` | First-round follow-up research plan | Coverage-gap analysis for skills-axis extensions (Tier 1 executed) |
+| `docs/skills/SDM_LENS_RESEARCH_PLAN.md` | SDM-lens research plan | 15 themes across architecture / dynamics / lifecycle / platform / SRE / governance; Tier 1 executed into `system_design_and_management.md` |
 
 ---
 
@@ -131,13 +135,13 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | **Off-policy evaluation** | DD6 §4 |
 | **Brand safety under AI generation** | frontier/generative_ai_and_llms_in_marketing §4, frontier/agentic_ai_marketing §4 |
 
-### By Skill (Sales vs. Productization)
+### By Skill (Sales · Productization · SDM)
 
 | Skill | Where to look | When to enter here |
 |-------|---------------|---------------------|
 | **Sales — Selling** | skills/sales_skill §2 | "Will this move revenue?" |
-| **Sales — Selling, academic research** | skills/sales_skill §2.8 | "What does peer-reviewed marketing science say about GenAI?" |
-| **Sales — Selling, by vertical** | skills/sales_skill §2.9 | "How does AI selling look in SaaS / fintech / retail / healthcare / B2B?" |
+| **Sales — Academic GenAI research** | skills/sales_skill §2.8 | "What does peer-reviewed marketing science say?" |
+| **Sales — Vertical sub-skills** | skills/sales_skill §2.9 | "How does AI selling look in SaaS / fintech / retail / healthcare / B2B?" |
 | **Sales — Investment** | skills/sales_skill §3 | "Will this move a funding round or investor decision?" |
 | **Sales — Private equity** | skills/sales_skill §3.6 | "How do PE firms deploy AI across portfolios?" |
 | **Sales — Hedge fund / public equity** | skills/sales_skill §3.7 | "How do quant shops and sell-side analysts use AI?" |
@@ -153,7 +157,14 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | **Productization — HAI / UX** | skills/productization_skill §4.5 | "Google PAIR / Microsoft HAX — how to apply?" |
 | **Productization — Product telemetry** | skills/productization_skill §4.6 | "PostHog vs Amplitude for AI products?" |
 | **Productization — Feature flagging** | skills/productization_skill §4.7 | "Statsig (now OpenAI-owned) vs LaunchDarkly?" |
-| **Cross-axis — Regulatory** | skills/regulatory_appendix | "What are the NIST / EU / FTC / ISO / state-law obligations?" |
+| **SDM — System architecture** | skills/system_design_and_management §2 | "Decompose the AI stack à la Crawley-Cameron. OPM of an LLM pipeline. Tradespace over quality × latency × cost × risk. What ADRs do I need?" |
+| **SDM — System dynamics** | skills/system_design_and_management §3 | "Which feedback loops are destabilizing my AI system? Is this runaway-loop / performative-prediction / Goodhart / capability-trap / model-collapse?" |
+| **SDM — Technical debt & lifecycle** | skills/system_design_and_management §4 | "Which of Sculley's nine categories am I accruing? Where on the MLOps maturity ladder am I? Do I have a retirement plan?" |
+| **SDM — Platform & team topology** | skills/system_design_and_management §5 | "Are we Team Topologies-aligned? Which Uber / Airbnb / Netflix / Meta platform pattern applies? Conway's Law consequences?" |
+| **SDM — SRE, STAMP, safety** | skills/system_design_and_management §6 | "What are the Unsafe Control Actions? What does the incident-response runbook look like? Do we have a safety case?" |
+| **SDM — Governance as system design** | skills/system_design_and_management §7 | "Decision rights / accountability graph / RACI for AI / model cards / policy-as-code" |
+| **SDM — Open thesis topics** | skills/system_design_and_management §10 | "Which 16 gaps in 2024-2026 literature can I scope for a thesis?" |
+| **Cross-axis — Regulatory** | skills/regulatory_appendix | "NIST / EU / FTC / ISO / state-law obligations" |
 
 Each skill doc back-links into the relevant DD and frontier docs, so readers entering from the skills axis never lose access to methodological depth.
 
@@ -240,6 +251,13 @@ Each skill doc back-links into the relevant DD and frontier docs, so readers ent
 2. `docs/deep_dive/DD6_ai_marketing_foundations.md` — cross-method theoretical substrate
 3. `docs/deep_dive/DD8_mit_sdm_marketing.md` — system architecture discipline
 4. `docs/frontier/*` — current implementation edge
+
+### Path SDM: "I am an MIT SDM student designing an AI stack"
+
+1. `docs/deep_dive/DD8_mit_sdm_marketing.md` — SDM methodological baseline
+2. `docs/skills/system_design_and_management.md` — end-to-end SDM lens on AI marketing
+3. §11 within that doc — Reading Paths SDM-A (defend architecture) / SDM-B (diagnose degradation) / SDM-C (design the org) / SDM-D (pick a thesis topic)
+4. `docs/skills/regulatory_appendix.md` — governance as compliance (§7 of SDM doc is governance as system design — they are complementary)
 
 ---
 
