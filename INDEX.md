@@ -58,8 +58,10 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | File | Topic | Core Coverage |
 |------|-------|----------------|
 | `docs/skills/README.md` | Skills framework: Sales vs. Productization | Scope, boundary rules, dual-listing conventions |
-| `docs/skills/sales_skill.md` | AI for selling + investment | Targeting, recommendation, retention, MMM, viral, sales enablement (selling) + VC screening, due diligence, IR, CFO, commercialization narrative (investment) |
-| `docs/skills/productization_skill.md` | AI product implementation | Model engineering (GNN/RL/Bayesian/LLM/Diffusion) + System engineering (MLOps/LLMOps/RAG/agents/OPE) + Product engineering (PRD/PMF/architecture) |
+| `docs/skills/sales_skill.md` | AI for selling + investment | §2 Selling: targeting, recommendation, retention, MMM, viral, sales enablement, **academic GenAI research (Kapoor/Kumar, Hermann/Puntoni, V.Kumar/Kotler, Columbia, Stanford, Wharton)**, **vertical sub-skills (SaaS/PLG, Fintech, Retail/CPG, Healthcare/HCP, Enterprise B2B/ABM)**. §3 Investment: VC screening, due diligence, IR, CFO, commercialization narrative, **PE AI, quant hedge funds, public-equity AI, valuation models, accelerator AI** |
+| `docs/skills/productization_skill.md` | AI product implementation | Model engineering (GNN / RL / Bayesian / LLM / Diffusion / **foundation-model selection**) + System engineering (MLOps / LLMOps / **vector DBs** / RAG / agents / **orchestration frameworks** / **LLM serving** / OPE / **observability** / **evaluation** / **guardrails**) + Product engineering (PRD / PMF / architecture / **HAI UX** / **product telemetry** / **feature flagging**) |
+| `docs/skills/regulatory_appendix.md` | Cross-axis regulatory frame | NIST AI RMF + 2024 GenAI Profile, EU AI Act 2025-2027 timeline, FTC Operation AI Comply + COPPA 2025, ISO 42001, US state-law fragmentation, sector-specific nuances, 2026 operating checklist |
+| `docs/skills/RESEARCH_PLAN.md` | Follow-up research plan | Coverage-gap analysis and prioritization for future skills-axis extensions |
 
 ---
 
@@ -134,10 +136,24 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | Skill | Where to look | When to enter here |
 |-------|---------------|---------------------|
 | **Sales — Selling** | skills/sales_skill §2 | "Will this move revenue?" |
+| **Sales — Selling, academic research** | skills/sales_skill §2.8 | "What does peer-reviewed marketing science say about GenAI?" |
+| **Sales — Selling, by vertical** | skills/sales_skill §2.9 | "How does AI selling look in SaaS / fintech / retail / healthcare / B2B?" |
 | **Sales — Investment** | skills/sales_skill §3 | "Will this move a funding round or investor decision?" |
+| **Sales — Private equity** | skills/sales_skill §3.6 | "How do PE firms deploy AI across portfolios?" |
+| **Sales — Hedge fund / public equity** | skills/sales_skill §3.7 | "How do quant shops and sell-side analysts use AI?" |
+| **Sales — Valuation models** | skills/sales_skill §3.8 | "Can an LLM help with DCF / comparables / M&A?" |
 | **Productization — Model engineering** | skills/productization_skill §2 | "How do we build and evaluate the model?" |
-| **Productization — System engineering** | skills/productization_skill §3 | "How do we make it survive production?" |
-| **Productization — Product engineering** | skills/productization_skill §4 | "Does the product do the job users come for?" |
+| **Productization — Foundation-model selection** | skills/productization_skill §2.6 | "Which base model and why?" |
+| **Productization — Vector DBs** | skills/productization_skill §3.1.1 | "Which retrieval substrate at marketing scale?" |
+| **Productization — Orchestration frameworks** | skills/productization_skill §3.3.1 | "LangGraph vs CrewAI vs AutoGen vs DSPy vs Pydantic AI?" |
+| **Productization — LLM serving** | skills/productization_skill §3.7 | "vLLM vs TGI vs TensorRT-LLM vs Bedrock at scale?" |
+| **Productization — Observability** | skills/productization_skill §3.8 | "Arize / Langfuse / Phoenix / LangSmith — which stack?" |
+| **Productization — Evaluation** | skills/productization_skill §3.9 | "Ragas / TruLens / DeepEval / Promptfoo?" |
+| **Productization — Guardrails** | skills/productization_skill §3.10 | "NeMo / Guardrails AI / Lakera / Bedrock Guardrails?" |
+| **Productization — HAI / UX** | skills/productization_skill §4.5 | "Google PAIR / Microsoft HAX — how to apply?" |
+| **Productization — Product telemetry** | skills/productization_skill §4.6 | "PostHog vs Amplitude for AI products?" |
+| **Productization — Feature flagging** | skills/productization_skill §4.7 | "Statsig (now OpenAI-owned) vs LaunchDarkly?" |
+| **Cross-axis — Regulatory** | skills/regulatory_appendix | "What are the NIST / EU / FTC / ISO / state-law obligations?" |
 
 Each skill doc back-links into the relevant DD and frontier docs, so readers entering from the skills axis never lose access to methodological depth.
 

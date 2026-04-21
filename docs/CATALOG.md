@@ -354,6 +354,362 @@ Productization-skill references — Product Engineering layer.
 | Cognitive Future. *Best AI Tools for Product Managers in 2026: Full Guide and Reviews* | 2026 | Tool reviews | [Article](https://cognitivefuture.ai/best-ai-tools-for-product-managers/) | skills/productization_skill §4.1 |
 | IGotAnOffer. *AI Product Manager Interview Questions (and Prep)* | 2025 | Role definition | [Article](https://igotanoffer.com/en/advice/ai-product-manager-interview) | skills/productization_skill §4.1 |
 
+## Academic Marketing Research on Generative AI (Non-MIT)
+
+Sales-skill references — peer-reviewed GenAI marketing research beyond the MIT Sloan spine covered in DD7.
+
+| Paper / Source | Year | Venue | Link | Discussed in |
+|---|---|---|---|---|
+| Kapoor & Kumar. *Frontiers: Generative AI and Personalized Video Advertisements* | 2025 | Marketing Science 44(4):733-747 | [INFORMS](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0494) | skills/sales_skill §2.8 |
+| Hermann & Puntoni. *Generative AI in Marketing and Principles for Ethical Design and Deployment* | 2025 | Sage J. of Marketing | [Sage](https://journals.sagepub.com/doi/10.1177/07439156241309874) | skills/sales_skill §2.8 |
+| V. Kumar, Kotler, Gupta, Rajan. *Generative AI in Marketing: Promises, Perils, and Public Policy Implications* | 2025 | Sage | [Sage](https://journals.sagepub.com/doi/10.1177/07439156241286499) | skills/sales_skill §2.8 |
+| *How Generative AI Is Shaping the Future of Marketing* | 2024-2025 | Journal of the Academy of Marketing Science | [Springer](https://link.springer.com/article/10.1007/s11747-024-01064-3) | skills/sales_skill §2.8 |
+| *Generative AI in Innovation and Marketing Processes: A Roadmap of Research Opportunities* | 2024 | JAMS | [Springer](https://link.springer.com/article/10.1007/s11747-024-01044-7) | skills/sales_skill §2.8 |
+| *Emerging Trends, Challenges, and Research Opportunities in AI Applications in Marketing* | 2025 | Discover AI (Springer) | [Springer](https://link.springer.com/article/10.1007/s44163-025-00705-y) | skills/sales_skill §2.8 |
+| *From Ideation to Execution: Generative AI in Digital Marketing (Systematic Review)* | 2025 | ScienceDirect / Results in Engineering | [SD](https://www.sciencedirect.com/science/article/pii/S2590005625002577) | skills/sales_skill §2.8 |
+| Columbia Business School. *2025 Conference on AI, ML, and Business Analytics* | 2025 | Columbia CBS | [CBS](https://business.columbia.edu/faculty/divisions/marketing/conferences/2025-AI-ML) | skills/sales_skill §2.8 |
+| Columbia Marketing Division. *Research focus on GenAI* | ongoing | CBS Marketing | [CBS](https://business.columbia.edu/faculty/divisions/marketing) | skills/sales_skill §2.8 |
+| Stanford GSB. *AI and Marketing: New Methods and New Risks Conference* | 2024-2025 | Stanford GSB | [Stanford GSB](https://www.gsb.stanford.edu/events/ai-marketing-new-methods-new-risks-conference) | skills/sales_skill §2.8 |
+| Stanford GSB. *AI Is Transforming How Brands Connect With Their Audiences* | 2025 | Leadership Institute | [GSB](https://www.gsb.stanford.edu/leadership-institute/news/ai-transforming-how-brands-connect-their-audiences) | skills/sales_skill §2.8 |
+| AI at Wharton. *Generative AI Adoption Survey* | 2024-2025 | Wharton / BusinessWire | [BusinessWire](https://www.businesswire.com/news/home/20241028137398/en/Generative-AI-Adoption-Surges-New-Study-by-AI-at-Wharton-Reveals-Doubling-of-AI-Use-Across-Key-Business-Functions) | skills/sales_skill §2.8 |
+| Wharton Executive Education. *AI in Marketing: Creating Customer Value* | 2025 | Wharton | [Wharton news](https://news.wharton.upenn.edu/press-releases/2025/10/wharton-executive-education-launches-ai-in-marketing-creating-customer-value-in-an-ai-driven-enterprise/) · [Wharton at Work](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-at-work/2025/11/ai-in-marketing/) | skills/sales_skill §2.8 |
+| Wharton Human-AI Research. *Business & Generative AI Workshop 2024* | 2024 | Wharton | [Wharton](https://ai.wharton.upenn.edu/business-generative-ai-workshop-2024/) | skills/sales_skill §2.8 |
+| MIT Sloan Management Review. *Gain Consumer Insight with Generative AI* | 2024-2025 | SMR | [SMR](https://sloanreview.mit.edu/article/gain-consumer-insight-with-generative-ai/) | skills/sales_skill §2.8 |
+| Carnegie Mellon Center for Intelligent Business. *GenAI Research Fellows* | ongoing | Tepper CMU | [CMU CIB](https://www.cmu.edu/intelligentbusiness/expertise/genai.html) | skills/sales_skill §2.8 |
+| Columbia ML/AI Seminar Series | ongoing | Columbia DSI | [DSI](https://datascience.columbia.edu/research/centers-and-working-groups/machine-learning-and-ai-seminar-series/) | skills/sales_skill §2.8 |
+
+## Industry-Vertical AI Selling
+
+Sales-skill references — AI-selling patterns specific to verticals (SaaS/PLG, Fintech, Retail/CPG, Healthcare, B2B ABM).
+
+### SaaS / PLG / AI Pricing
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Freemius. *AI-Driven, Founder-Led: 2025 State of Micro-SaaS* | 2025 | Solo-founder AI patterns | [Article](https://freemius.com/blog/state-of-micro-saas-2025/) | skills/sales_skill §2.9 |
+| L.E.K. *How AI Is Changing SaaS Pricing* | 2025 | Analyst view | [Article](https://www.lek.com/insights/tmt/global/ar/how-ai-changing-saas-pricing) | skills/sales_skill §2.9 |
+| L.E.K. *How AI Is Redefining SaaS Metrics and Forecasting* | 2025 | Metrics | [Article](https://lek.com/insights/tmt/us/ei/how-ai-redefining-saas-metrics-and-forecasting) | skills/sales_skill §2.9 |
+| Kanhasoft. *Usage-Based AI Pricing Models: The Future of SaaS* | 2025 | Pricing survey | [Article](https://medium.com/@kanhasoftt/usage-based-ai-pricing-models-the-future-of-saas-39e124f3b9a5) | skills/sales_skill §2.9 |
+| getmonetizely. *The 2026 Guide to SaaS, AI, and Agentic Pricing Models* | 2026 | Pricing taxonomy | [Guide](https://www.getmonetizely.com/blogs/the-2026-guide-to-saas-ai-and-agentic-pricing-models) | skills/sales_skill §2.9 |
+| Salespanel. *What Is Product-Led Growth in 2025?* | 2025 | PLG overview | [Article](https://salespanel.io/blog/marketing/what-is-product-led-growth/) | skills/sales_skill §2.9 |
+| UserGuiding. *The State of Product-Led Growth in SaaS for 2026* | 2026 | Industry state | [Article](https://userguiding.com/blog/state-of-plg-in-saas) | skills/sales_skill §2.9 |
+| Lago. *6 Proven Pricing Models for AI SaaS (and How to Build Them)* | 2025 | Pricing playbook | [Article](https://getlago.com/blog/6-proven-pricing-models-for-ai-saas) | skills/sales_skill §2.9 |
+| Metronome. *AI Pricing in Practice: 2025 Field Report* | 2025 | Field survey | [Article](https://metronome.com/blog/ai-pricing-in-practice-2025-field-report-from-leading-saas-teams) | skills/sales_skill §2.9 |
+| Bessemer Venture Partners. *The AI Pricing and Monetization Playbook* | 2025 | VC perspective | [Article](https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook) | skills/sales_skill §2.9 |
+
+### Fintech AI Selling
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Evince. *AI Underwriting: Transforming FinTech* | 2025 | Underwriting overview | [Article](https://evincedev.com/blog/how-ai-underwriting-transforms-fintech/) | skills/sales_skill §2.9 |
+| Zest AI | ongoing | AI credit-risk platform | [Site](https://www.zest.ai/) · [Product](https://www.zest.ai/product/underwriting) | skills/sales_skill §2.9 |
+| WEF. *AI Credit Scoring and Financial Inclusion* | Oct 2025 | Inclusion analysis | [WEF](https://www.weforum.org/stories/2025/10/how-responsibly-deploying-ai-credit-scoring-models-can-progress-financial-inclusion/) | skills/sales_skill §2.9 |
+| V7 Labs. *AI Commercial Loan Underwriting* | 2025 | Practitioner guide | [Article](https://www.v7labs.com/blog/ai-commercial-loan-underwriting) | skills/sales_skill §2.9 |
+| Codewave. *AI in Fintech: Top Companies and Use Cases 2025* | 2025 | Use-case catalog | [Article](https://codewave.com/insights/fintech-ai-companies-use-cases/) | skills/sales_skill §2.9 |
+| MDPI FinTech. *Credit Sales and Risk Scoring: A FinTech Innovation* | 2025 | Academic | [MDPI](https://www.mdpi.com/2674-1032/4/3/31) | skills/sales_skill §2.9 |
+| Marqeta. *How AI Is Shaping Fintech, Lending, and Payments in 2025* | 2025 | Industry view | [Article](https://www.marqeta.com/blog/ai-in-payments-and-fintech-enhancing-human-decision-making-and-innovation) | skills/sales_skill §2.9 |
+| Text.com. *Best AI Tools for Fintech* | 2025 | Tool catalog | [Article](https://www.text.com/blog/ai-tools-for-fintech/) | skills/sales_skill §2.9 |
+| finbots.ai | ongoing | AI credit-risk platform | [Site](https://www.finbots.ai/) | skills/sales_skill §2.9 |
+
+### Retail / CPG / Shelf Optimization
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Intelligence Node. *Digital Shelf Optimization for Google + AI* | 2025 | DSO overview | [Article](https://www.intelligencenode.com/blog/digital-shelf-optimization-google-ai/) | skills/sales_skill §2.9 |
+| Personal.ai. *Top 5 AI Platforms for Retail Companies in 2025* | 2025 | Platform list | [Article](https://www.personal.ai/insights/top-5-ai-platforms-for-retail-companies-in-2025) | skills/sales_skill §2.9 |
+| ParallelDots. *Retail Optimization and Management through AI-Based Shelf Scanning* | 2025 | Computer-vision shelf | [Article](https://www.paralleldots.com/resources/blog/shelf-optimization-ai-ml-scan) | skills/sales_skill §2.9 |
+| Pygmalios. *Best AI Analytics for FMCG Shelf Performance* | 2025 | FMCG analytics | [Article](https://www.pygmalios.com/insights/best-ai-analytics-fmcg-shelf) | skills/sales_skill §2.9 |
+| Neodata. *How AI Turns Physical Retail into a Digital Playground* | 2025 | Physical-digital convergence | [Article](https://neodatagroup.ai/shelf-aware-how-ai-turns-physical-retail-into-a-digital-playground/) | skills/sales_skill §2.9 |
+| DeltaSales. *How AI Helps CPG Brands Increase Sales & Win Shelf Space* | 2025 | CPG | [Article](https://deltasalesapp.com/blog/ai-for-cpg-brands-to-boost-sales) | skills/sales_skill §2.9 |
+| Influencers Time. *AI Price Optimization & Local Inventory Data* | 2025 | Pricing + inventory | [Article](https://www.influencers-time.com/ai-and-local-inventory-data-transform-retail-pricing-2025/) | skills/sales_skill §2.9 |
+| Couture.ai. *Smarter Store Planning: Why SKU-Level Decisions Matter in 2026* | 2026 | Agentic store planning | [Article](https://couture.ai/blog/smarter-store-planning-why-sku-level-decisions-matter-in-2026/) | skills/sales_skill §2.9 |
+| Toolio. *How AI Improves Every Stage of Retail Planning* | 2025 | Planning pipeline | [Article](https://www.toolio.com/post/how-ai-improves-every-stage-of-retail-planning) | skills/sales_skill §2.9 |
+| CommerceIQ. *Digital Shelf Optimization Platform* | ongoing | Platform | [Site](https://www.commerceiq.ai/digital-shelf-optimization) | skills/sales_skill §2.9 |
+
+### Healthcare / Life Sciences HCP Targeting
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Doceree. *AI in Healthcare Marketing: Impact in 2025* | 2025 | Industry overview | [Article](https://blog.doceree.com/ai-in-healthcare-marketing-and-its-impact-in-2025) | skills/sales_skill §2.9 |
+| Salesforce. *HCP Targeting in 2025* | 2025 | Platform guide | [Article](https://www.salesforce.com/life-sciences/cloud/hcp-targeting/) | skills/sales_skill §2.9 |
+| Talking Medicines. *5 AI Trends Driving Healthcare Marketing 2025* | 2025 | Trends | [Article](https://talkingmedicines.com/2025/01/5-ai-trends-driving-healthcare-marketing-in-2025/) | skills/sales_skill §2.9 |
+| Swoop. *Predictive AI Targeting Launch* | 2025 | Vendor launch | [Article](https://swoop.com/blog/swoop-launches-predictive-ai-targeting-the-next-generation-of-healthcare-marketing/) | skills/sales_skill §2.9 |
+| IntuitionLabs. *Managing and Tracking HCP Engagement in Modern U.S. Pharma Marketing* | 2025 | Practitioner | [Article](https://intuitionlabs.ai/articles/hcp-engagement-solutions) | skills/sales_skill §2.9 |
+| IQVIA. *Harnessing AI for Effective Global HCP Targeting* | July 2025 | IQVIA practitioner | [Article](https://www.iqvia.com/blogs/2025/07/harnessing-ai-for-effective-global-hcp-targeting-and-engagement) | skills/sales_skill §2.9 |
+| L7 Creative. *How AI Is Transforming Pharma Marketing in 2025* | 2025 | Agency view | [Article](https://www.l7creative.com/ai-marketing/ai-transforms-pharma-marketing-2025/) | skills/sales_skill §2.9 |
+| Pharmaphorum. *Life Sciences Marketing Ahead — AI-Powered Innovations* | 2025 | Industry | [Article](https://pharmaphorum.com/sales-marketing/life-sciences-marketing-ahead-unveiling-role-ai-powered-innovations-hcp-engagement) | skills/sales_skill §2.9 |
+| Agilisium. *Beyond Traditional Sales: AI Transforming HCP Engagement* | 2025 | Practitioner | [Article](https://www.agilisium.com/blogs/beyond-traditional-sales-how-ai-agents-are-transforming-hcp-engagement-in-life-sciences) | skills/sales_skill §2.9 |
+| BCG X. *Healthcare Commercial AI — Smarter HCP Engagement* | ongoing | Vendor / platform | [Site](https://www.bcg.com/x/product-library/healthcare-commercial-ai) | skills/sales_skill §2.9 |
+
+### Enterprise B2B / ABM
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| ABM Agency. *Intent Data: The Secret Weapon for Smarter ABM in 2025* | 2025 | Intent data | [Article](https://abmagency.com/intent-data-the-secret-weapon-for-smarter-abm-in-2025/) | skills/sales_skill §2.9 |
+| SingleGrain. *Top 10 ABM Agencies in 2025* | 2025 | Agency roundup | [Article](https://www.singlegrain.com/abm/top-10-abm-agencies-in-2025/) | skills/sales_skill §2.9 |
+| ABM Agency. *The Ultimate Guide to ABM Agencies in 2025* | 2025 | Agency guide | [Article](https://abmagency.com/the-ultimate-guide-to-account-based-marketing-agencies-in-2025/) | skills/sales_skill §2.9 |
+| Factors.ai. *Buyer Intent Data & ABM: A 2025 Guide* | 2025 | Practitioner | [Article](https://www.factors.ai/blog/buyer-intent-for-abm) | skills/sales_skill §2.9 |
+| AriseGTM. *AI-Enabled ABM in 2025* | 2025 | Agency view | [Article](https://arisegtm.com/blog/ai-enabled-abm-2025) | skills/sales_skill §2.9 |
+| ZoomInfo Pipeline. *Top 15 ABM Software Platforms for B2B Growth 2026* | 2026 | Platform list | [Article](https://pipeline.zoominfo.com/marketing/abm-software) | skills/sales_skill §2.9 |
+| AI-Ark. *Best B2B Intent Data Providers in 2025* | 2025 | Vendor list | [Article](https://ai-ark.com/blog/b2b-intent-data-providers/) | skills/sales_skill §2.9 |
+| Nrich. *What Is ABM and Why Does It Matter in 2025?* | 2025 | Practitioner | [Article](https://nrich.io/blog/what-is-abm-and-why-does-it-matter-in-2025) | skills/sales_skill §2.9 |
+| Salespanel. *Top ABM Agencies of 2025* | 2025 | Agency list | [Article](https://salespanel.io/blog/marketing/top-abm-agencies/) | skills/sales_skill §2.9 |
+| Informa TechTarget. *Proprietary Intent Data for ABM Leadership* | 2025 | Press release | [Article](https://www.businesswire.com/news/home/20251106291963/en/Propelled-by-Proprietary-Intent-Data-Informa-TechTarget-Continues-Account-Based-Marketing-ABM-Leadership) | skills/sales_skill §2.9 |
+
+## Private Equity AI
+
+Sales-skill references — investment-side AI for PE firms.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| McKinsey. *Generative AI in Private Equity: A New Frontier for Value Creation* | 2024 | Analyst view | [McKinsey](https://www.mckinsey.com/) | skills/sales_skill §3.6 |
+| Bain & Co. *Global Private Equity Report 2024/2025 — AI chapter* | 2024-2025 | Industry report | [Bain](https://www.bain.com/insights/global-private-equity-report) | skills/sales_skill §3.6 |
+| PitchBook. *How AI Is Rewiring Private Equity Deal Sourcing* | 2024 | Industry analysis | [PitchBook](https://pitchbook.com/news) | skills/sales_skill §3.6 |
+| HBR. *How Private Equity Firms Are Creating Value With AI* | 2024 | HBR | [HBR](https://hbr.org/) | skills/sales_skill §3.6 |
+| Gompers, Kaplan, Mukharlyamov. *What Do Private Equity Firms (Say They) Do? (AI addendum)* | 2024 | SSRN | [SSRN](https://papers.ssrn.com/) | skills/sales_skill §3.6 |
+| Preqin. *AI Adoption in Alternatives 2024* | 2024 | Industry survey | [Preqin](https://www.preqin.com/) | skills/sales_skill §3.6 |
+| EQT Motherbrain. *Platform overview* | ongoing | Vendor case | [EQT ThinQ](https://eqtgroup.com/thinq) | skills/sales_skill §3.6 |
+| OpenAI / Bain Capital partnership announcement (Feb 2024) | 2024 | Vendor partnership | [OpenAI Blog](https://openai.com/blog) | skills/sales_skill §3.6 |
+
+## Quant Hedge Fund and Public-Equity AI
+
+Sales-skill references — alpha-side and public-equity issuer-side AI.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Two Sigma Insights + arXiv papers | 2024-2025 | Quant ML research | [twosigma.com/insights](https://twosigma.com/insights) | skills/sales_skill §3.7 |
+| Man Institute research library | 2024-2025 | Quant research | [man.com/ri](https://man.com/ri) | skills/sales_skill §3.7 |
+| Cong, Tang, Wang, Zhang. *AlphaPortfolio* (NBER WP, 2024 update) | 2024 | RL for portfolio | [NBER](https://www.nber.org/) | skills/sales_skill §3.7 |
+| Lopez-Lira & Tang. *Can ChatGPT Forecast Stock Price Movements?* | 2024 | Public-equity LLM | [SSRN](https://papers.ssrn.com/) | skills/sales_skill §3.7 |
+| *FinGPT: Open-Source LLMs for Finance* | 2023-2024 | Finance LLM | [arXiv](https://arxiv.org/) | skills/sales_skill §3.7 |
+| *GPT's Idea of Stock Factors* | 2024 | SSRN | [SSRN](https://papers.ssrn.com/) | skills/sales_skill §3.7 |
+| Cao, Jiang, Wang, Yang. *From Man vs. Machine to Man + Machine* | 2024 | RFS | [RFS](https://academic.oup.com/rfs) | skills/sales_skill §3.7 |
+| Bloomberg. *BloombergGPT* | 2023 (foundational) | Finance LLM | [arXiv 2303.17564](https://arxiv.org/abs/2303.17564) | skills/sales_skill §3.7 |
+| BIS Working Paper 1194. *AI in Asset Management* | 2024 | BIS | [BIS](https://www.bis.org/) | skills/sales_skill §3.7 |
+| CFA Institute Research Foundation. *AI in Investment Management* | 2024 | CFA | [CFA](https://rpc.cfainstitute.org/) | skills/sales_skill §3.7 |
+| Hebbia. *Matrix Product* | 2024 | Public-equity AI tool | Various VC press | skills/sales_skill §3.7 |
+| Rogo AI | 2024-2025 | IB / PE LLM | Various tech press | skills/sales_skill §3.7 |
+| AlphaSense + Tegus acquisition (June 2024) | 2024 | Sell-side research | Reuters / WSJ | skills/sales_skill §3.7 |
+| Kensho (S&P Global) | ongoing | S&P subsidiary | [Kensho](https://kensho.com) | skills/sales_skill §3.7 |
+| Daloopa | ongoing | Filing structuring | [Site](https://daloopa.com) | skills/sales_skill §3.7 |
+
+## Foundation Model Landscape and Selection
+
+Productization-skill references — foundation-model selection for marketing workloads.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Menlo Ventures. *2025 Mid-Year LLM Market Update: Foundation Model Landscape + Economics* | 2025 | Market share snapshot | [Menlo](https://menlovc.com/perspective/2025-mid-year-llm-market-update/) | skills/productization_skill §2.6 |
+| Sebastian Raschka. *The State of LLMs 2025: Progress and Predictions* | 2025 | Researcher view | [Sebastian Raschka](https://magazine.sebastianraschka.com/p/state-of-llms-2025) | skills/productization_skill §2.6 |
+| Empler. *The Ultimate Guide to the Latest LLMs: A Detailed Comparison for 2025* | 2025 | Tool comparison | [Empler](https://www.empler.ai/blog/the-ultimate-guide-to-the-latest-llms-a-detailed-comparison-for-2025) | skills/productization_skill §2.6 |
+| Helicone. *The Complete LLM Model Comparison Guide (2025)* | 2025 | Provider comparison | [Helicone](https://www.helicone.ai/blog/the-complete-llm-model-comparison-guide) | skills/productization_skill §2.6 |
+| LXT. *LLM Benchmarks in 2026* | 2026 | Benchmark overview | [LXT](https://www.lxt.ai/blog/llm-benchmarks/) | skills/productization_skill §2.6 |
+| SnapLogic. *The Great LLM Race: Navigating the New AI Frontier in the Enterprise* | 2025 | Enterprise angle | [SnapLogic](https://www.snaplogic.com/blog/great-llm-race-enterprise-ai) | skills/productization_skill §2.6 |
+| Grazitti. *Enterprise LLM Evaluation, Comparison & Selection Playbook* | 2025 | Enterprise selection | [Grazitti](https://www.grazitti.com/blog/the-complete-guide-to-enterprise-llm-evaluation-comparison-and-management/) | skills/productization_skill §2.6 |
+| LLM Stats. *AI Leaderboard 2026* | 2026 | Continuously-updated leaderboard | [llm-stats](https://llm-stats.com) · [benchmarks](https://llm-stats.com/benchmarks) | skills/productization_skill §2.6 |
+| Inkeep. *Best AI Models: Your Complete LLM Guide for 2025* | 2025 | Enterprise selection | [Inkeep](https://inkeep.com/blog/best-ai-models-2025) | skills/productization_skill §2.6 |
+| ArtificialAnalysis. *Throughput / price leaderboard* | ongoing | Infra comparison | [AA](https://artificialanalysis.ai/) | skills/productization_skill §2.6, §3.7 |
+
+## Vector Database Engineering
+
+Productization-skill references — retrieval substrate comparison.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Pinecone. *Serverless Architecture* | 2024 | Vendor deep-dive | [Pinecone](https://www.pinecone.io/blog/serverless/) | skills/productization_skill §3.1.1 |
+| Qdrant. *Binary Quantization* | 2024 | Cost-per-query technique | [Qdrant](https://qdrant.tech/articles/binary-quantization/) | skills/productization_skill §3.1.1 |
+| Qdrant. *Comparative Benchmarks* | 2024 | Benchmark | [Qdrant](https://qdrant.tech/benchmarks/) | skills/productization_skill §3.1.1 |
+| Weaviate. *Hybrid Search Explained* | 2024 | Dense + sparse | [Weaviate](https://weaviate.io/blog/hybrid-search-explained) | skills/productization_skill §3.1.1 |
+| Milvus. *2.4 / 2.5 Release Notes* | 2024-2025 | Vendor updates | [Milvus](https://milvus.io/blog/milvus-2-4-release.md) | skills/productization_skill §3.1.1 |
+| pgvector (repo) | ongoing | Postgres extension | [GitHub](https://github.com/pgvector/pgvector) | skills/productization_skill §3.1.1 |
+| Timescale. *pgvectorscale Benchmark* | 2024 | StreamingDiskANN | [Timescale](https://www.timescale.com/blog/pgvector-vs-pinecone/) | skills/productization_skill §3.1.1 |
+| OpenSearch. *Semantic Search Solutions* | 2024 | Neural / hybrid | [OpenSearch](https://opensearch.org/blog/semantic-search-solutions/) | skills/productization_skill §3.1.1 |
+| Elastic. *ELSER v2 — Elastic Learned Sparse Encoder* | 2024 | Learned sparse | [Elastic Labs](https://www.elastic.co/search-labs/blog/elser-v2-elastic-learned-sparse-encoder) | skills/productization_skill §3.1.1 |
+| MongoDB Atlas Vector Search | ongoing | SaaS vector | [MongoDB](https://www.mongodb.com/developer/products/atlas/atlas-vector-search-overview/) | skills/productization_skill §3.1.1 |
+| Redis Vector Search | ongoing | Cache + vector | [Redis](https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/vectors/) | skills/productization_skill §3.1.1 |
+| ANN-Benchmarks | ongoing | Cross-vendor benchmark | [Site](https://ann-benchmarks.com/) | skills/productization_skill §3.1.1 |
+| *DiskANN / SPFresh fresh-index update paper* | 2024 | Academic | [arXiv](https://arxiv.org/abs/2401.02116) | skills/productization_skill §3.1.1 |
+| HN Discussion. *Why pgvector Is Enough* | 2024 | Practitioner | [HN](https://news.ycombinator.com/item?id=39549831) | skills/productization_skill §3.1.1 |
+
+## LLM Serving Infrastructure
+
+Productization-skill references — inference and serving stacks.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| vLLM. *Repo + releases* | 2023-2026 | PagedAttention + continuous batching | [GitHub](https://github.com/vllm-project/vllm) | skills/productization_skill §3.7 |
+| *PagedAttention Paper* | 2023 (foundational) | vLLM paper | [arXiv](https://arxiv.org/abs/2309.06180) | skills/productization_skill §3.7 |
+| LMSYS. *SGLang Llama-3 Serving* | 2024 | Benchmark | [LMSYS](https://lmsys.org/blog/2024-07-25-sglang-llama3/) | skills/productization_skill §3.7 |
+| *SGLang / RadixAttention Paper* | 2023-2024 | Prefix reuse | [arXiv](https://arxiv.org/abs/2312.07104) | skills/productization_skill §3.7 |
+| SGLang Repo | ongoing | Serving stack | [GitHub](https://github.com/sgl-project/sglang) | skills/productization_skill §3.7 |
+| TensorRT-LLM docs | ongoing | NVIDIA stack | [NVIDIA](https://nvidia.github.io/TensorRT-LLM/) | skills/productization_skill §3.7 |
+| TGI. *HuggingFace Text Generation Inference* | ongoing | HF serving | [GitHub](https://github.com/huggingface/text-generation-inference) | skills/productization_skill §3.7 |
+| Anyscale. *Continuous Batching LLM Inference* | 2023 (foundational) | Explainer | [Anyscale](https://www.anyscale.com/blog/continuous-batching-llm-inference) | skills/productization_skill §3.7 |
+| *Medusa Speculative Decoding* | 2024 | Technique | [arXiv](https://arxiv.org/abs/2401.09670) | skills/productization_skill §3.7 |
+| *EAGLE-2 Speculative Decoding* | 2024 | Technique | [arXiv](https://arxiv.org/abs/2406.16858) | skills/productization_skill §3.7 |
+| AWS Bedrock Pricing | ongoing | Managed pricing | [AWS](https://aws.amazon.com/bedrock/pricing/) | skills/productization_skill §3.7 |
+| Azure OpenAI Provisioned Throughput | ongoing | Managed | [MSFT](https://learn.microsoft.com/azure/ai-services/openai/concepts/provisioned-throughput) | skills/productization_skill §3.7 |
+| Vertex GenAI Pricing | ongoing | Managed | [Google](https://cloud.google.com/vertex-ai/generative-ai/pricing) | skills/productization_skill §3.7 |
+
+## LLM / Agent Orchestration Frameworks
+
+Productization-skill references — orchestration framework landscape.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| LangGraph Production | ongoing | Stateful DAG orchestration | [LangChain](https://www.langchain.com/langgraph) | skills/productization_skill §3.3.1 |
+| Dao. *Designing Generative Multi-Agent Systems for Collective Intelligence and Resilience* | 2025 | MIT SDM thesis (full PDF) | [DSpace PDF](https://dspace.mit.edu/bitstream/handle/1721.1/162506/dao-daoluc-sm-sdm-2025-thesis.pdf) | DD8, frontier/agentic, skills/productization_skill §3.3.1 |
+| SDM. *Dao Best Paper CAS 2025* | 2025 | Award press | [SDM](https://sdm.mit.edu/research-practice/dao-best-paper-cas-2025/) | skills/productization_skill §3.3.1 |
+| *AgentDojo Benchmark* | 2024 | Prompt-injection benchmark | [arXiv](https://arxiv.org/abs/2406.13352) | skills/productization_skill §3.3.1 |
+| *Multi-Agent Design: Prompts + Topologies* | 2025 | Topology paper | [arXiv](https://arxiv.org/html/2502.02533v1) | skills/productization_skill §3.3.1 |
+| *Multi-Agent Defense Pipeline vs Prompt Injection* | 2025 | Defense research | [arXiv](https://arxiv.org/html/2509.14285) | skills/productization_skill §3.3.1 |
+| *Prompt Injections to Protocol Exploits* | 2025 | Security | [arXiv](https://arxiv.org/html/2506.23260v1) | skills/productization_skill §3.3.1 |
+| *Budget-Aware Tool-Use Scaling (BATS)* | 2025 | Cost-aware planning | [arXiv](https://arxiv.org/abs/2511.17006) | skills/productization_skill §3.3.1 |
+| *CostBench* | 2025 | Benchmark | [arXiv](https://arxiv.org/html/2511.02734v1) | skills/productization_skill §3.3.1 |
+| *Prompts as Code — DSPy Case Studies* | 2025 | DSPy | [arXiv](https://arxiv.org/html/2507.03620v1) | skills/productization_skill §3.3.1 |
+| Pydantic AI | 2025 | Type-safe agent framework | [Docs](https://ai.pydantic.dev/) | skills/productization_skill §3.3.1 |
+| Microsoft Agent Framework | 2026 | MS agent framework | [Overview](https://learn.microsoft.com/en-us/agent-framework/overview/) · [Launch post](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) | skills/productization_skill §3.3.1 |
+| DSPy MIPROv2 | ongoing | Prompt optimizer | [DSPy](https://dspy.ai/api/optimizers/MIPROv2/) | skills/productization_skill §3.3.1 |
+| Haystack 2.x | ongoing | Pipeline orchestration | [Haystack](https://haystack.deepset.ai/) | skills/productization_skill §3.3.1 |
+| OpenAI Agents SDK | 2025 | OpenAI-native agents | [Docs](https://openai.github.io/openai-agents-python/) | skills/productization_skill §3.3.1 |
+
+## Observability and Tracing for LLM Systems
+
+Productization-skill references — §3.8.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Arize AX | ongoing | LLM observability platform | [Docs](https://arize.com/docs/ax) | skills/productization_skill §3.8 |
+| Arize Phoenix (OSS) | ongoing | OSS observability | [Docs](https://docs.arize.com/phoenix) | skills/productization_skill §3.8 |
+| Langfuse | ongoing | LLM observability | [Docs](https://langfuse.com/docs) | skills/productization_skill §3.8 |
+| LangSmith | ongoing | LangChain-native | [Docs](https://docs.smith.langchain.com/) | skills/productization_skill §3.8 |
+| Helicone | ongoing | Proxy + async trace | [Docs](https://docs.helicone.ai/) | skills/productization_skill §3.8 |
+| Traceloop / OpenLLMetry | ongoing | OTel standard | [Docs](https://www.traceloop.com/docs/openllmetry) · [Repo](https://github.com/traceloop/openllmetry) | skills/productization_skill §3.8 |
+| W&B Weave | ongoing | W&B-native | [Docs](https://weave-docs.wandb.ai/) | skills/productization_skill §3.8 |
+| WhyLabs LLM Monitoring | ongoing | whylogs profiles | [Docs](https://docs.whylabs.ai/docs/large-language-model-monitoring/) | skills/productization_skill §3.8 |
+| Evidently | ongoing | Drift reports | [Docs](https://docs.evidentlyai.com/) | skills/productization_skill §3.8 |
+| Fiddler LLM Monitoring | ongoing | Unified LLM + ML | [Docs](https://docs.fiddler.ai/product-guide/llm-monitoring) | skills/productization_skill §3.8 |
+| OpenTelemetry GenAI Conventions | 2024 | OTel standard | [Blog](https://opentelemetry.io/blog/2024/otel-generative-ai/) | skills/productization_skill §3.8 |
+| OpenInference Spec | ongoing | Arize OSS spec | [GitHub](https://github.com/Arize-ai/openinference) | skills/productization_skill §3.8 |
+| LLM Observability Survey | 2024 | Academic | [arXiv](https://arxiv.org/abs/2404.00903) | skills/productization_skill §3.8 |
+| Thoughtworks Tech Radar — Langfuse | 2024-2025 | Radar | [Thoughtworks](https://www.thoughtworks.com/radar/tools/langfuse) | skills/productization_skill §3.8 |
+
+## Evaluation Frameworks (RAG / Agent)
+
+Productization-skill references — §3.9.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Ragas | ongoing | RAG eval | [Docs](https://docs.ragas.io/) | skills/productization_skill §3.9 |
+| Ragas Paper | 2023 | RAG eval paper | [arXiv](https://arxiv.org/abs/2309.15217) | skills/productization_skill §3.9 |
+| TruLens | ongoing | LLM eval triad | [Site](https://www.trulens.org/) | skills/productization_skill §3.9 |
+| DeepEval / Confident AI | ongoing | Pytest-native eval | [Docs](https://docs.confident-ai.com/) | skills/productization_skill §3.9 |
+| OpenAI Evals | ongoing | Template eval | [Repo](https://github.com/openai/evals) | skills/productization_skill §3.9 |
+| Promptfoo | ongoing | YAML eval + red-team | [Docs](https://www.promptfoo.dev/docs/) | skills/productization_skill §3.9 |
+| LangSmith Evaluate | ongoing | LangSmith-native | [Docs](https://docs.smith.langchain.com/evaluation) | skills/productization_skill §3.9 |
+| Arize Phoenix Evals | ongoing | OSS | [Docs](https://arize.com/docs/phoenix/evaluation/llm-evals) | skills/productization_skill §3.9 |
+| Giskard | ongoing | Scan + eval | [Docs](https://docs.giskard.ai/) | skills/productization_skill §3.9 |
+| *LLM-as-Judge / MT-Bench* | 2023 (foundational) | LLM-judge paper | [arXiv](https://arxiv.org/abs/2306.05685) | skills/productization_skill §3.9 |
+| *Prometheus 2* | 2024 | Open judge LLM | [arXiv](https://arxiv.org/abs/2405.01535) | skills/productization_skill §3.9 |
+| *G-Eval* | 2023 (foundational) | Judge technique | [arXiv](https://arxiv.org/abs/2303.16634) | skills/productization_skill §3.9 |
+| *RAG Eval Survey* | 2024 | Academic survey | [arXiv](https://arxiv.org/abs/2410.05983) | skills/productization_skill §3.9 |
+| Eugene Yan. *LLM Evaluators* | 2024 | Practitioner | [Site](https://eugeneyan.com/writing/llm-evaluators/) | skills/productization_skill §3.9 |
+| Hamel Husain. *Evals* | 2024 | Practitioner | [Site](https://hamel.dev/blog/posts/evals/) | skills/productization_skill §3.9 |
+
+## Guardrails and Safety
+
+Productization-skill references — §3.10.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| NeMo Guardrails (NVIDIA) | ongoing | Colang rails | [Docs](https://docs.nvidia.com/nemo/guardrails/) · [Repo](https://github.com/NVIDIA/NeMo-Guardrails) | skills/productization_skill §3.10 |
+| Guardrails AI | ongoing | Validators | [Docs](https://www.guardrailsai.com/docs) · [Hub](https://hub.guardrailsai.com/) | skills/productization_skill §3.10 |
+| Lakera Guard | ongoing | Prompt-injection defense | [Site](https://www.lakera.ai/lakera-guard) | skills/productization_skill §3.10 |
+| Protect AI Rebuff | ongoing | Prompt-injection detection | [Repo](https://github.com/protectai/rebuff) | skills/productization_skill §3.10 |
+| Azure Content Safety | ongoing | Managed safety | [Docs](https://learn.microsoft.com/azure/ai-services/content-safety/) | skills/productization_skill §3.10 |
+| AWS Bedrock Guardrails | ongoing | Managed guardrails | [Docs](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails.html) | skills/productization_skill §3.10 |
+| OWASP Top 10 for LLM Apps | ongoing | Threat taxonomy | [OWASP](https://owasp.org/www-project-top-10-for-large-language-model-applications/) | skills/productization_skill §3.10 |
+| *Prompt Injection Taxonomy* | 2024 | Academic | [arXiv](https://arxiv.org/abs/2403.06833) | skills/productization_skill §3.10 |
+| *HarmBench* | 2024 | Benchmark | [arXiv](https://arxiv.org/abs/2402.04249) | skills/productization_skill §3.10 |
+| Lakera Gandalf | ongoing | Red-team playground | [Site](https://gandalf.lakera.ai/) | skills/productization_skill §3.10 |
+| *JailbreakBench* | 2023 (foundational) | Benchmark | [arXiv](https://arxiv.org/abs/2310.03684) | skills/productization_skill §3.10 |
+| Microsoft Presidio | ongoing | PII detection | [Repo](https://github.com/microsoft/presidio) | skills/productization_skill §3.10 |
+| *Prompt Injection Defense Survey* | 2024 | Academic | [arXiv](https://arxiv.org/abs/2406.05498) | skills/productization_skill §3.10 |
+
+## LLMOps — Production Engineering (additional)
+
+Augments earlier LLMOps section with 2025 production-deployment references.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Hacker News. *What 1,200 Production Deployments Reveal About LLMOps in 2025 — discussion* | 2025 | Practitioner discussion | [HN](https://news.ycombinator.com/item?id=46323932) | skills/productization_skill §3.1 |
+
+## Human-AI Interaction and UX for AI Products
+
+Productization-skill references — §4.5.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Google PAIR. *People + AI Guidebook* | ongoing | HAI framework | [Home](https://pair.withgoogle.com/guidebook/) · [Chapters](https://pair.withgoogle.com/guidebook/chapters) | skills/productization_skill §4.5 |
+| PAIR. *Updating the Guidebook in the Age of Generative AI* | 2024-2025 | GenAI update | [Medium](https://medium.com/people-ai-research/updating-the-people-ai-guidebook-in-the-age-of-generative-ai-cace6c846db4) | skills/productization_skill §4.5 |
+| Google Design. *Design with AI — Learn from Google Experts* | ongoing | Design library | [Google Design](https://design.google/library/people-ai-research) | skills/productization_skill §4.5 |
+| Microsoft HAX Toolkit | ongoing | HAI framework | [Home](https://www.microsoft.com/en-us/haxtoolkit/) · [Research project](https://www.microsoft.com/en-us/research/project/hax-toolkit/) | skills/productization_skill §4.5 |
+| Microsoft HAX Workbook | ongoing | Team alignment | [Workbook](https://www.microsoft.com/en-us/haxtoolkit/workbook/) | skills/productization_skill §4.5 |
+| Microsoft HAX Guidelines | ongoing | 18 guidelines | [Guidelines](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/) | skills/productization_skill §4.5 |
+| *Ultimate Guide to AI Design Frameworks in 2025* | 2025 | Practitioner synthesis | [Medium](https://medium.com/@farzinraisstousi/the-ultimate-guide-to-ai-design-frameworks-in-2025-choosing-the-right-approach-for-your-team-5ae06336dc58) | skills/productization_skill §4.5 |
+
+## AI Product Analytics and Telemetry
+
+Productization-skill references — §4.6.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| PostHog. *LLM Analytics docs* | ongoing | LLM + product analytics | [Docs](https://posthog.com/docs/llm-analytics) · [Start here](https://posthog.com/docs/llm-analytics/start-here) | skills/productization_skill §4.6 |
+| PostHog. *AI / LLM Observability handbook* | ongoing | Use case | [Handbook](https://posthog.com/handbook/growth/use-case-selling/ai-llm-observability) | skills/productization_skill §4.6 |
+| PostHog. *LLM Analytics landing page* | ongoing | Marketing | [Site](https://posthog.com/llm-analytics) | skills/productization_skill §4.6 |
+| PostHog vs Amplitude | ongoing | Tool comparison | [PostHog](https://posthog.com/blog/posthog-vs-amplitude) | skills/productization_skill §4.6 |
+| PostHog AI Engineering docs | ongoing | Engineering | [Docs](https://posthog.com/docs/ai-engineering) | skills/productization_skill §4.6 |
+| LiteLLM. *PostHog Integration* | ongoing | Integration | [Docs](https://docs.litellm.ai/docs/observability/posthog_integration) | skills/productization_skill §4.6 |
+| PostHog. *LLM Metrics Template* | ongoing | Templates | [Posthog](https://posthog.com/templates/ai-analytics) | skills/productization_skill §4.6 |
+| Telemetry-Aware AI Agents (Medium) | 2025 | Telemetry patterns | [Medium](https://medium.com/@falvarezpinto/telemetry-aware-ai-agents-building-llm-features-that-understand-product-behavior-using-posthog-events-954c5d6bad0e) | skills/productization_skill §4.6 |
+| Dev.to. *Top Open-Source LLM Observability Tools in 2025* | 2025 | OSS comparison | [Dev.to](https://dev.to/practicaldeveloper/comprehensive-guide-top-open-source-llm-observability-tools-in-2025-1kl1) | skills/productization_skill §4.6 |
+
+## Feature Flagging and AI Rollout
+
+Productization-skill references — §4.7.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Statsig vs LaunchDarkly (Statsig) | 2025 | Platform comparison | [Statsig](https://www.statsig.com/vs/launchdarkly) · [comparison](https://www.statsig.com/comparison/statsig-and-launchdarkly-compared) | skills/productization_skill §4.7 |
+| Startupik. *Top Feature Flag Tools Compared (LaunchDarkly vs Statsig vs GrowthBook)* | 2025 | Tool comparison | [Startupik](https://startupik.com/top-feature-flag-tools-compared-launchdarkly-vs-statsig-vs-growthbook/) | skills/productization_skill §4.7 |
+| LaunchDarkly vs Statsig (LaunchDarkly) | 2025 | Vendor comparison | [LaunchDarkly](https://launchdarkly.com/compare/launchdarkly-vs-statsig/) | skills/productization_skill §4.7 |
+| Kameleoon. *Top 10 Feature Flag Management Tools 2026* | 2026 | Tool landscape | [Kameleoon](https://www.kameleoon.com/blog/top-feature-flag-management-tools) | skills/productization_skill §4.7 |
+| Statsig. *LaunchDarkly vs PostHog: Feature Flags, Experimentation, Pricing* | 2025 | Three-way comparison | [Statsig](https://www.statsig.com/perspectives/feature-flags-experimentation-pricing-comparison) | skills/productization_skill §4.7 |
+| Flagsmith. *Statsig Alternatives: 8 Best Feature Flag Platforms Compared* | 2025 | Alternatives | [Flagsmith](https://www.flagsmith.com/blog/statsig-alternatives) | skills/productization_skill §4.7 |
+| Statsig. *Best LaunchDarkly Alternative* | 2025 | Vendor comparison | [Statsig](https://www.statsig.com/perspectives/launchdarkly-alternative-feature-flags) | skills/productization_skill §4.7 |
+| Statsig. *How LaunchDarkly Works* | 2025 | Explainer | [Statsig](https://www.statsig.com/perspectives/how-launchdarkly-works) | skills/productization_skill §4.7 |
+
+## AI Ethics, Risk, and Regulatory Frameworks (Cross-Axis)
+
+Cross-axis references used in `docs/skills/regulatory_appendix.md`. Applicable to both Sales and Productization.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| NIST. *AI Risk Management Framework 1.0* | 2023 | Core RMF | [NIST](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | skills/regulatory_appendix §2 |
+| NIST. *AI 600-1 Generative AI Profile* | 2024 | GenAI profile | [NIST](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) | skills/regulatory_appendix §2 |
+| EU AI Act (Regulation 2024/1689) | 2024 | Core regulation | [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) | skills/regulatory_appendix §3 |
+| *AI Act Implementation Timeline* | 2025-2027 | Timeline | [AI Act portal](https://artificialintelligenceact.eu/implementation-timeline/) | skills/regulatory_appendix §3 |
+| European Commission. *AI Act portal* | ongoing | EC policy | [Digital Strategy](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) | skills/regulatory_appendix §3 |
+| FTC. *AI Companies: Privacy Commitments* (June 2024) | 2024 | Enforcement | [FTC](https://www.ftc.gov/business-guidance/blog/2024/06/ai-companies-uphold-your-privacy-confidentiality-commitments) | skills/regulatory_appendix §4 |
+| FTC. *Operation AI Comply* (Sep 2024) | 2024 | Enforcement wave | [FTC](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes) | skills/regulatory_appendix §4 |
+| FTC. *COPPA rule* | ongoing | Children's privacy | [FTC](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) | skills/regulatory_appendix §4 |
+| ISO/IEC 42001:2023 | 2023 | AI management system | [ISO](https://www.iso.org/standard/81230.html) | skills/regulatory_appendix §5 |
+| NIST AI RMF Roadmap | ongoing | Policy | [NIST](https://www.nist.gov/itl/ai-risk-management-framework/roadmap-nist-artificial-intelligence-risk-management-framework-ai) | skills/regulatory_appendix |
+| GDPR Art. 22 (Profiling) | ongoing | EU baseline | [GDPR.eu](https://gdpr.eu/recital-71-profiling/) | skills/regulatory_appendix §7 |
+| FDA. *AI/ML-Enabled Medical Devices* | ongoing | Healthcare | [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) | skills/regulatory_appendix §7 |
+| CFPB. *Credit Denials Using AI* | 2023+ | Financial services | [CFPB](https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-credit-denials-lenders-using-artificial-intelligence/) | skills/regulatory_appendix §7 |
+| WEF. *AI Governance Alliance publications* | ongoing | Cross-jurisdiction | [WEF](https://www.weforum.org/publications/ai-governance-alliance/) | skills/regulatory_appendix §1 |
+
 ---
 
 ## How to Use This Catalog

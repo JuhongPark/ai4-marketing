@@ -109,6 +109,63 @@ The two halves are joined by a common thread: **both are ultimately about convin
 - `docs/frontier/generative_ai_and_llms_in_marketing.md` §5 — Retail-GPT, Graph-Enhanced RAG, Amazon QAC RAG
 - `docs/frontier/agentic_ai_marketing.md` §2 — multi-agent specialized roles (Lead Qualification, Campaign Orchestrator)
 
+### 2.8 Academic Marketing Research on Generative AI (beyond MIT)
+
+The repo's academic spine is DD7 (MIT Sloan / ORC). The skills-axis expansion adds peer-reviewed GenAI marketing research from other institutions, emphasizing field experiments over theoretical treatments.
+
+| Paper / Source | Institution / Authors | Key finding | Link |
+|---|---|---|---|
+| Kapoor & Kumar. *Frontiers: Generative AI and Personalized Video Advertisements* (2025) | Marketing Science 44(4) | Mobile-ad WhatsApp field experiment; GenAI personalized video ads increase engagement by **+6-9pp** over image ads and generic videos | [INFORMS](https://pubsonline.informs.org/doi/10.1287/mksc.2023.0494) |
+| Hermann & Puntoni. *Generative AI in Marketing and Principles for Ethical Design and Deployment* (2025) | Sage / J. of Marketing | Ethical-design principles synthesizing 2023-2025 GenAI marketing literature | [Sage](https://journals.sagepub.com/doi/10.1177/07439156241309874) |
+| V. Kumar, Kotler, Gupta, Rajan. *Generative AI in Marketing: Promises, Perils, and Public Policy Implications* (2025) | Sage / JAMS-adjacent | Policy-focused synthesis from canonical marketing scholars | [Sage](https://journals.sagepub.com/doi/10.1177/07439156241286499) |
+| *How Generative AI Is Shaping the Future of Marketing* (2024-2025) | JAMS (Springer) | Framework paper on GenAI's impact across marketing functions | [Springer](https://link.springer.com/article/10.1007/s11747-024-01064-3) |
+| Columbia Business School. *GenAI field experiments at a cross-border retailer* (2025) | Columbia Marketing | Six-month large-scale RCT: GenAI integration across 7 consumer workflows yields **0% to 16.3% sales lift** | See 2025 CBS AI/ML/Business Analytics Conference proceedings |
+| Stanford GSB. *AI and Marketing: New Methods and New Risks Conference* | Stanford (Athey group) | Causal-ML for marketing intervention evaluation; adaptation of NLP-causal methods | [Stanford GSB](https://www.gsb.stanford.edu/events/ai-marketing-new-methods-new-risks-conference) |
+| AI at Wharton. *Generative AI Adoption Study* | Wharton | **AI adoption in marketing/sales tripled 20% (2023) → 62% (2024)** | [BusinessWire](https://www.businesswire.com/news/home/20241028137398/en/Generative-AI-Adoption-Surges-New-Study-by-AI-at-Wharton-Reveals-Doubling-of-AI-Use-Across-Key-Business-Functions) |
+| Wharton Executive Education. *AI in Marketing: Creating Customer Value in an AI-Driven Enterprise* (2025) | Wharton | Program curriculum as market signal for executive skills demand | [Wharton](https://news.wharton.upenn.edu/press-releases/2025/10/wharton-executive-education-launches-ai-in-marketing-creating-customer-value-in-an-ai-driven-enterprise/) |
+| MIT Sloan Management Review. *Gain Consumer Insight With Generative AI* (2024-2025) | MIT SMR | Practitioner framework for LLM-based consumer research | [SMR](https://sloanreview.mit.edu/article/gain-consumer-insight-with-generative-ai/) |
+
+**Sales-lens reading**: the Kapoor & Kumar (2025) result is the cleanest production-grade causal evidence that GenAI personalized video outperforms image and generic video at ~7pp engagement, under real ad-platform conditions. It is the reference study to cite when defending creative investment in GenAI video. Columbia's 0-16.3% lift range is a useful counter-anchor: **GenAI returns vary widely by workflow**; the story is not uniform.
+
+### 2.9 Vertical Sub-Skills — Selling AI in Specific Industries
+
+Where the repo's DDs are domain-agnostic, actual production AI selling differs meaningfully by vertical. A short tour:
+
+**SaaS and Product-Led Growth (PLG)**:
+- 69% of bootstrapped and equity-backed SaaS teams use AI to eliminate bottlenecks (Freemius 2025 Micro-SaaS state report)
+- Usage-based pricing is becoming the norm; hybrid models outperform flat subscriptions
+- AI copilots shipping with flexible paywalls that flex by use-case / growth stage / team size
+- OpenAI's **$1.1B acquisition of Statsig** (2026) signals that feature-flagging + experimentation is strategic to AI-era product monetization
+- Sources: [Freemius Micro-SaaS 2025](https://freemius.com/blog/state-of-micro-saas-2025/); [Bessemer AI Pricing Playbook](https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook); [Metronome AI Pricing Field Report 2025](https://metronome.com/blog/ai-pricing-in-practice-2025-field-report-from-leading-saas-teams); [L.E.K. — How AI Is Changing SaaS Pricing](https://www.lek.com/insights/tmt/global/ar/how-ai-changing-saas-pricing); [Lago — 6 Proven Pricing Models for AI SaaS](https://getlago.com/blog/6-proven-pricing-models-for-ai-saas); [getmonetizely 2026 Guide to SaaS, AI, Agentic Pricing Models](https://www.getmonetizely.com/blogs/the-2026-guide-to-saas-ai-and-agentic-pricing-models)
+
+**Fintech / Lending / Payments**:
+- AI credit-underwriting market: **$1.6B (2024) → $2.17B (2025), ~35% CAGR** (Marqeta / codewave)
+- **83% of lenders plan to increase GenAI budgets in 2026**
+- Platforms: Upstart, SoFi, Zest AI, finbots.ai, Liberis
+- MNT-Halan automated **>50% of loan approvals** and achieved a **60% approval rate on previously unscoreable users** — AI directly expands addressable market, the clearest demonstration of AI-as-sales-growth in any vertical
+- Sources: [Zest AI](https://www.zest.ai/); [V7 — AI Commercial Loan Underwriting 2025](https://www.v7labs.com/blog/ai-commercial-loan-underwriting); [WEF — AI Credit Scoring and Financial Inclusion (Oct 2025)](https://www.weforum.org/stories/2025/10/how-responsibly-deploying-ai-credit-scoring-models-can-progress-financial-inclusion/); [Codewave — AI in Fintech 2025](https://codewave.com/insights/fintech-ai-companies-use-cases/); [Marqeta — AI in Payments and Fintech 2025](https://www.marqeta.com/blog/ai-in-payments-and-fintech-enhancing-human-decision-making-and-innovation); [MDPI FinTech — Credit Sales and Risk Scoring](https://www.mdpi.com/2674-1032/4/3/31)
+
+**Retail / CPG / FMCG**:
+- **80%+ of retailers plan increased AI shelf-management investment over the next two years** (Pygmalios 2025)
+- **65% use AI for product-placement optimization**
+- Global AI in retail market: **$5.5B (2022) → $55B (2030)** projection; AI retail supply-chain spend exceeds **$10B in 2025**
+- Agentic store-planning stacks: Demand Agent + Space Agent + Allocation Agent + Pricing Agent + Compliance Agent (couture.ai 2026)
+- Sources: [Intelligence Node — Digital Shelf Optimization](https://www.intelligencenode.com/blog/digital-shelf-optimization-google-ai/); [ParallelDots — Retail Shelf-Scanning AI](https://www.paralleldots.com/resources/blog/shelf-optimization-ai-ml-scan); [Pygmalios — Best AI Analytics for FMCG Shelf Performance 2025](https://www.pygmalios.com/insights/best-ai-analytics-fmcg-shelf); [Couture.ai — Smarter Store Planning 2026](https://couture.ai/blog/smarter-store-planning-why-sku-level-decisions-matter-in-2026/); [Toolio — AI Retail Planning](https://www.toolio.com/post/how-ai-improves-every-stage-of-retail-planning); [CommerceIQ — Digital Shelf Optimization](https://www.commerceiq.ai/digital-shelf-optimization); [DeltaSales — AI for CPG Brands](https://deltasalesapp.com/blog/ai-for-cpg-brands-to-boost-sales)
+
+**Healthcare / Life Sciences (HCP Targeting)**:
+- AI-powered HCP targeting: **20-50% representative-efficiency improvement**, **5-10% HCP-satisfaction uplift**, **3-5% prescriber-number increase**, **5-10% incremental revenue** (IQVIA 2025)
+- Late-2025 platform launches: **Veeva AI Agents** (four agents — Free Text, Voice, Pre-call, Media — using Anthropic LLMs on Amazon Bedrock); **Salesforce Life Sciences Cloud for Customer Engagement (LSC4CE)** with IQVIA (Sep 2025)
+- First-party data is disproportionately valuable because HCP digital signals are scarcer than consumer signals
+- Sources: [Doceree — AI in Healthcare Marketing 2025](https://blog.doceree.com/ai-in-healthcare-marketing-and-its-impact-in-2025); [Salesforce — HCP Targeting 2025](https://www.salesforce.com/life-sciences/cloud/hcp-targeting/); [Talking Medicines — 5 AI Trends for Healthcare Marketing 2025](https://talkingmedicines.com/2025/01/5-ai-trends-driving-healthcare-marketing-in-2025/); [IQVIA — Harnessing AI for Global HCP Targeting](https://www.iqvia.com/blogs/2025/07/harnessing-ai-for-effective-global-hcp-targeting-and-engagement); [BCG X — Healthcare Commercial AI](https://www.bcg.com/x/product-library/healthcare-commercial-ai); [Agilisium — How AI Is Transforming HCP Engagement](https://www.agilisium.com/blogs/beyond-traditional-sales-how-ai-agents-are-transforming-hcp-engagement-in-life-sciences); [IntuitionLabs — HCP Engagement Solutions](https://intuitionlabs.ai/articles/hcp-engagement-solutions); [Pharmaphorum — AI-Powered Innovations in HCP Engagement](https://pharmaphorum.com/sales-marketing/life-sciences-marketing-ahead-unveiling-role-ai-powered-innovations-hcp-engagement); [Swoop — Predictive AI Targeting](https://swoop.com/blog/swoop-launches-predictive-ai-targeting-the-next-generation-of-healthcare-marketing/); [L7 Creative — AI Transforms Pharma Marketing 2025](https://www.l7creative.com/ai-marketing/ai-transforms-pharma-marketing-2025/)
+
+**Enterprise B2B / ABM (Account-Based Marketing)**:
+- **70% of B2B marketers** use ABM; implementers report **208% revenue lift** from marketing; **87% of ROI-measuring marketers** say ABM outperforms every other investment
+- **98% of B2B marketers** consider intent data essential; **91% use intent data and scoring to prioritize ABM accounts**
+- Global ABM market: **$1.2B (2024), 12.4% CAGR through 2030**
+- Sources: [ABM Agency — Intent Data for Smarter ABM 2025](https://abmagency.com/intent-data-the-secret-weapon-for-smarter-abm-in-2025/); [Factors.ai — Buyer Intent Data 2025](https://www.factors.ai/blog/buyer-intent-for-abm); [AriseGTM — AI-Enabled ABM 2025](https://arisegtm.com/blog/ai-enabled-abm-2025); [ZoomInfo Pipeline — ABM Software 2026](https://pipeline.zoominfo.com/marketing/abm-software); [AI-Ark — Best B2B Intent Data Providers 2025](https://ai-ark.com/blog/b2b-intent-data-providers/); [Informa TechTarget ABM press](https://www.businesswire.com/news/home/20251106291963/en/Propelled-by-Proprietary-Intent-Data-Informa-TechTarget-Continues-Account-Based-Marketing-ABM-Leadership)
+
+**Sales-lens cross-vertical reading**: fintech and healthcare show the clearest causal evidence of **AI expanding the salable market** (underwriting previously unscoreable users; targeting HCPs at scale). SaaS shows AI changing the **pricing architecture** (usage-based over flat). Retail/CPG shows AI becoming the **merchandising substrate**. Enterprise B2B shows AI fused with **intent data** as the core of demand generation. These are not minor variations — they are fundamentally different monetization architectures depending on the vertical.
+
 **New to repo via this skill axis** — production-side sales enablement and B2B selling:
 
 | Signal | Value | Source |
@@ -241,6 +298,98 @@ Adjacent to IR but narrower: forecasting, scenario modeling, variance analysis.
 **Pattern**: LLM-on-top-of-ERP reads transactions and contracts, produces variance narratives the controller used to write by hand. RAG grounded on the close ledger; evaluation via finance-team QA. Often built on the same platforms as IR (Workiva, BlueFlame) but used by the FP&A function, not IR.
 
 **Open problem**: no widely-cited academic synthesis yet; the literature is almost entirely industry-analyst reports. See DD5 (MMM) for the closest academic parallel — Bayesian hierarchical models for marketing spend translate to scenario modeling for CFO budgets with minimal change.
+
+### 3.6 Private Equity AI
+
+PE firms now apply AI at three distinct points: **deal sourcing**, **operational DD**, and **portfolio value creation**. The first two overlap with §3.1 and §3.2 but have PE-specific tooling; the third is new territory.
+
+**Who's doing what (2024-2026)**:
+
+| Firm | Known AI activity | Source |
+|---|---|---|
+| **Blackstone** | Data-science team (led by Matt Katz / Jon Gray commentary) applies ML across 250+ portfolio companies for pricing, procurement, labor forecasting. Disclosed AI-driven EBITDA uplift themes in 2024-2025 earnings | Blackstone 2024 Annual Letter; FT, Bloomberg coverage |
+| **KKR** | Partnered with **Palantir Foundry** for portfolio operations analytics; Henry McVey's macro team uses LLMs for thematic screening; "Capstone" operational group integrates AI into value-creation playbooks | FT, Bloomberg 2024-2025 |
+| **EQT** | **Motherbrain** (operational since ~2016, continuously updated through 2024-2025): screens 50M+ companies, ~15 deals publicly credited by 2024 | [EQT ThinQ](https://eqtgroup.com/thinq) |
+| **Bain Capital** | Announced **OpenAI partnership (Feb 2024)** for services layer spanning diligence + portfolio ops | [OpenAI Blog](https://openai.com/blog) |
+| **Vista Equity Partners, Thoma Bravo** | Disclosed internal GenAI copilots for software portfolio companies (code migration, SG&A reduction); **10-30% productivity gains** reported in press | Various industry coverage |
+| **Mid-market** | **Keystone** (Bain & Co. adjacent), **AlphaSense Generative Search**, **Grata**, **SourceScrub** + **DealCloud** dominate deal sourcing; **Rogo AI**, **Mosaic.tech** enter LBO-modeling assistance | PitchBook, Dealroom 2024-2025 |
+
+**Sales-lens reading for LPs**: when a GP claims AI-driven value-creation, the credible markers are (a) portfolio-company named, (b) quantified EBITDA impact, (c) the model or vendor disclosed. Anything less is narrative.
+
+**New references**:
+- McKinsey. *Generative AI in Private Equity: A New Frontier for Value Creation* (2024) — mckinsey.com insights
+- Bain & Co. *Global Private Equity Report 2024/2025* — AI chapter
+- PitchBook. *How AI Is Rewiring Private Equity Deal Sourcing* (2024)
+- Preqin. *AI Adoption in Alternatives 2024*
+- HBR. *How Private Equity Firms Are Creating Value With AI* (2024)
+- Gompers, Kaplan, Mukharlyamov. *What Do Private Equity Firms (Say They) Do?* — SSRN updated AI addendum (2024)
+
+**Open problems**: (i) attribution — did AI drive portfolio EBITDA or is it a narrative layer? (ii) data contamination in DD LLMs trained on seller-provided CIMs. (iii) fund-of-funds AI screening is nascent; no dominant platform.
+
+### 3.7 Quant Hedge Fund and Public-Equity AI
+
+The hedge-fund side is mostly opaque, but the public record is richer than it was pre-2023.
+
+**Quant Hedge Fund AI (publicly described)**:
+
+| Firm | What's public | Academic signal |
+|---|---|---|
+| **Two Sigma** | Venn platform; NeurIPS / ICML submissions on transformers for time-series and RL for execution; discloses satellite, credit-card, shipping data usage | [Two Sigma Insights](https://twosigma.com/insights), arXiv 2024-2025 |
+| **Citadel / Citadel Securities** | Aggressive ML-PhD recruiting; Ken Griffin discusses LLM integration for research productivity; market-making is heavily ML-driven (microstructure) | Bloomberg, Risk.net 2024 |
+| **Renaissance Technologies** | Famously opaque; ex-RenTech researcher papers (2024) suggest ensemble-kernel + HMM hybrids | arXiv 2024 |
+| **Man AHL** | Most academically open: transformer backbones for futures trading (2024-2025); documented LLM-for-earnings-calls pipeline | [Man Institute](https://man.com/ri) |
+| **Jane Street** | OCaml throughout; 2024 conference talks reveal differentiable programming + deep RL for options market-making | ICFP 2024 tech talks |
+| **D.E. Shaw** | "Pattern" lab; published graph-neural-network work on cross-asset prediction | — |
+| **Hudson River Trading** | Low-latency ML inference on FPGAs/GPUs; opaque on alpha stack | Job posts 2024 |
+
+**Alt-data vendors (the input layer for all of the above)**: Orbital Insight, RS Metrics (satellite); Yipit Data, Second Measure (credit-card / transaction panels); Thinknum, Similarweb (web-scraped).
+
+**Public-Equity AI Tools (issuer + analyst side)**:
+
+| Tool | Function | 2024-2025 signal |
+|---|---|---|
+| **Hebbia** | "Matrix" product — document-grid QA over 10-Ks, S-1s; used by BlackRock, Centerview, Charlesbank | $130M Series B (a16z, 2024) |
+| **Rogo AI** | Banker-facing LLM for IB / PE workflows; integrated with CapIQ, PitchBook | ~$50M+ raised by 2025 |
+| **AlphaSense + Tegus** | Sell-side research search + expert-call transcripts; ~$930M acquisition (June 2024) | Reuters, WSJ |
+| **Kensho** (S&P Global) | Kensho Scribe and Kensho LLM-ready data across Capital IQ | S&P subsidiary since 2018 |
+| **Daloopa** | Filing-structuring for DCF / model-building | Private |
+| **FactSet GenAI Assistant** | Announced 2024; native embed in FactSet workstation | factset.com |
+
+**Academic papers worth citing**:
+- Cao, Jiang, Wang, Yang. *From Man vs. Machine to Man + Machine*. RFS (2024)
+- Lopez-Lira & Tang. *Can ChatGPT Forecast Stock Price Movements?* SSRN / JFE 2024
+- *GPT's Idea of Stock Factors*. SSRN 2024
+- Bloomberg. *BloombergGPT* (arXiv 2303.17564, 2023 — flagged as foundational but pre-2024)
+- *FinGPT / FinLLM* (ongoing arXiv series, 2024)
+- Hoberg-Phillips TNIC database — text-based industry similarity, updated through 2024
+- BIS Working Paper 1194, *AI in Asset Management* (2024)
+- CFA Institute Research Foundation, *AI in Investment Management* (2024)
+
+**Sales-lens reading**: for founders raising from hedge-fund-backed or PE-backed strategics, the investor is no longer just reading your S-1 — a Hebbia / Rogo / AlphaSense pipeline is reading your filings, your competitor filings, and every analyst comment. **Write for the retrieval layer**, not only the human reader.
+
+### 3.8 AI Valuation and M&A Models
+
+**Embedding-based comparable-company selection**: Hoberg-Phillips TNIC, extended by commercial vendors (Daloopa, Finsemble) using embedding similarity rather than GICS. This displaces rigid sector-code filters with semantic similarity.
+
+**DCF-augmenting LLMs**: Bloomberg BloombergGPT (2023, foundational), FactSet GenAI Assistant (2024), domain-specific FinLLM variants. LLMs extract revenue drivers, segment disclosures, and assumption rationales from 10-Ks / S-1s — but hallucination in financial citations remains unsolved, and audit trails from LLM outputs back to source filings are inconsistent.
+
+**M&A DD automation**: already covered in §3.2; the new angle for M&A specifically is post-merger integration (PMI) automation — LLMs synthesize employee-handbook conflicts, contract-portfolio overlaps, and system-of-record redundancies.
+
+**SPAC / IPO pricing ML**: academic modest lift over bookbuilding; no dominant production tool; small, non-stationary samples are the blocker.
+
+**Open problems**:
+- Hallucination in financial citations with audit-trail uncertainty
+- Embedding-based comparables lack regulatory / accounting treatment (which matters for valuation multiples)
+- Finance-LLM benchmarks (FinBench, FinEval) are early-stage and gameable
+- No dominant production SPAC / IPO pricing tool
+
+### 3.9 Accelerator and Early-Stage AI
+
+Adjacent to §3.4 (commercialization narrative). Covers the founder's AI-augmented experience inside an accelerator cycle:
+- **Y Combinator W25 / S25 cohorts**: founders using LLMs for customer discovery, deck iteration, product demos; YC's 2025 RFS (Request for Startups) explicitly invites AI-native law firms and vertical AI agents
+- **Grant / non-dilutive funding AI**: SBIR / Horizon Europe proposal drafting via LLM; currently informal, no established vendor category yet
+
+This sub-skill is lightweight in 2026 but likely to grow.
 
 ---
 
