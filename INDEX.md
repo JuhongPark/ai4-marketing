@@ -51,6 +51,16 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 | `docs/frontier/llm_enhanced_recommenders.md` | LLM-based recommenders | P5 (2022), TALLRec (2023), LLaRA (2024), E4SRec, LLM-SRec, instance-wise LoRA |
 | `docs/frontier/agentic_ai_marketing.md` | Autonomous agents, multi-agent coordination, RAG commerce | Deloitte/Gartner agentic stats, Dao (2025) topology analysis, RAG for commerce |
 
+### Skills Axis (`docs/skills/`)
+
+Cross-cutting lens that re-reads the repo by **organizational capability** rather than by marketing domain or AI method. Read these when you want to see the same research from a selling / fundraising / productization perspective.
+
+| File | Topic | Core Coverage |
+|------|-------|----------------|
+| `docs/skills/README.md` | Skills framework: Sales vs. Productization | Scope, boundary rules, dual-listing conventions |
+| `docs/skills/sales_skill.md` | AI for selling + investment | Targeting, recommendation, retention, MMM, viral, sales enablement (selling) + VC screening, due diligence, IR, CFO, commercialization narrative (investment) |
+| `docs/skills/productization_skill.md` | AI product implementation | Model engineering (GNN/RL/Bayesian/LLM/Diffusion) + System engineering (MLOps/LLMOps/RAG/agents/OPE) + Product engineering (PRD/PMF/architecture) |
+
 ---
 
 ## Topic Index (Keyword-Based Discovery)
@@ -119,6 +129,18 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 | **Off-policy evaluation** | DD6 §4 |
 | **Brand safety under AI generation** | frontier/generative_ai_and_llms_in_marketing §4, frontier/agentic_ai_marketing §4 |
 
+### By Skill (Sales vs. Productization)
+
+| Skill | Where to look | When to enter here |
+|-------|---------------|---------------------|
+| **Sales — Selling** | skills/sales_skill §2 | "Will this move revenue?" |
+| **Sales — Investment** | skills/sales_skill §3 | "Will this move a funding round or investor decision?" |
+| **Productization — Model engineering** | skills/productization_skill §2 | "How do we build and evaluate the model?" |
+| **Productization — System engineering** | skills/productization_skill §3 | "How do we make it survive production?" |
+| **Productization — Product engineering** | skills/productization_skill §4 | "Does the product do the job users come for?" |
+
+Each skill doc back-links into the relevant DD and frontier docs, so readers entering from the skills axis never lose access to methodological depth.
+
 ---
 
 ## How to Find What You Need
@@ -131,6 +153,9 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 
 **Looking for research in a specific marketing domain (e.g., churn, attribution)?**
 → Use the "By Marketing Domain" table above.
+
+**Looking for a skill lens (selling, investment, productization)?**
+→ `docs/skills/` — three documents re-read the repo through the Sales and Productization lenses, and introduce research not covered in the domain axis (VC screening, due diligence, IR, LLMOps, RAG engineering, AI product management).
 
 **Looking for MIT-specific research?**
 → DD7 (faculty landscape) and DD8 (SDM theses and adjacent programs).
@@ -180,6 +205,26 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 4. Check `docs/frontier/agentic_ai_marketing.md` §4 for deployment pitfalls
 5. Use open-source tools linked in DD5 (PyMC-Marketing, Robyn, Meridian), DD4 (CausalML), frontier/llm_enhanced_recommenders (LLM4Rec curated lists)
 
+### Path E: "I need to ship revenue this quarter"
+
+1. `docs/skills/sales_skill.md` §2 — selling sub-skills, each with back-link to the relevant DD
+2. From each sub-skill, follow the DD link for methodological depth
+3. `docs/frontier/generative_ai_and_llms_in_marketing.md` §4 for GenAI personalization ROI
+4. `docs/frontier/agentic_ai_marketing.md` §2 for autonomous campaign execution
+
+### Path F: "We are fundraising — how does AI change the investor dynamic?"
+
+1. `docs/skills/sales_skill.md` §3 — investment sub-skills (VC screening, due diligence, IR, pitch, CFO)
+2. Cross-reference with `docs/skills/productization_skill.md` — investors now expect production maturity (§3)
+3. DD8 §2.3 — *A Strategic Perspective on the Commercialization of AI* (MIT SDM)
+
+### Path G: "I'm building the product and need to ship"
+
+1. `docs/skills/productization_skill.md` — all three layers in order
+2. `docs/deep_dive/DD6_ai_marketing_foundations.md` — cross-method theoretical substrate
+3. `docs/deep_dive/DD8_mit_sdm_marketing.md` — system architecture discipline
+4. `docs/frontier/*` — current implementation edge
+
 ---
 
 ## Maintenance Notes
@@ -189,6 +234,7 @@ This index should be updated whenever a new document is added to `docs/`. Each n
 1. Be listed in the Document Map section above.
 2. Have its key methods added to the "By AI Method" table.
 3. Have its domain added to the "By Marketing Domain" table if new.
-4. Have its cited papers added to `docs/CATALOG.md` with a "Discussed in" back-reference.
+4. Be tagged as Sales-relevant, Productization-relevant, or both (see `docs/skills/`).
+5. Have its cited papers added to `docs/CATALOG.md` with a "Discussed in" back-reference.
 
-Keeping both `INDEX.md` (topic navigation) and `docs/CATALOG.md` (paper-level lookup) in sync is the core discipline for keeping the project searchable as it grows.
+Keeping `INDEX.md` (topic navigation), `docs/CATALOG.md` (paper-level lookup), and `docs/skills/*` (capability lens) mutually consistent is the core discipline for keeping the project searchable as it grows.

@@ -14,8 +14,13 @@ docs/
 ├── 02_recommendation_systems.md   # GNN-based recommenders (PinSage, LightGCN)
 ├── 03_influencer_marketing.md     # Influence prediction and viral marketing via GNN + DRL
 ├── 04_churn_prediction.md         # ML and deep learning for customer retention
-└── 05_marketing_mix_modeling.md   # Bayesian MMM and multi-touch attribution
+├── 05_marketing_mix_modeling.md   # Bayesian MMM and multi-touch attribution
+├── deep_dive/                     # Long-form treatments (DD1-DD8)
+├── frontier/                      # Post-2023 frontier: GenAI, LLM recommenders, agentic
+└── skills/                        # Capability-lens rereading: Sales vs. Productization
 ```
+
+The **domain axis** (`docs/01-05`, `deep_dive/`, `frontier/`) organizes research by marketing problem and AI method. The **skills axis** (`docs/skills/`) reorganizes the same research by operating capability — *Sales* (selling + investment) and *Productization* (model + system + product engineering). Both axes are maintained in parallel; see `INDEX.md` for navigation.
 
 ## Key AI Approaches by Domain
 
@@ -51,3 +56,13 @@ Core marketing problems are:
 | Attribution | `multi-touch attribution deep learning`, `causal attribution`, `DNAMTA`, `CAMTA` |
 | MMM | `Bayesian marketing mix modeling`, `PyMC-Marketing`, `Robyn MMM`, `media mix modeling` |
 | Influence / Viral | `influence maximization deep reinforcement learning`, `viral marketing GNN` |
+| Sales enablement | `AI sales copilot`, `conversational commerce`, `B2B sales forecasting AI` |
+| Investment AI | `AI venture capital screening`, `AI due diligence`, `investor relations AI`, `LLM earnings prep` |
+| Productization | `LLMOps production`, `RAG pipeline engineering`, `multi-agent topology`, `off-policy evaluation` |
+
+## Two Axes for the Same Research
+
+- **Domain / method axis** (`docs/01-05`, `docs/deep_dive/`, `docs/frontier/`): breadth-first surveys organized by marketing problem (segmentation, recommendation, churn, MMM, viral) and by AI method (GNN, RL, Bayesian, causal, LLM, diffusion).
+- **Skills axis** (`docs/skills/`): organized by operating capability — Sales (selling customer-facing + raising / managing investment) and Productization (model / system / product engineering). The skills axis adds research the domain axis does not cover: VC screening AI, M&A due diligence AI, IR / CFO automation, LLMOps / RAG engineering, AI product management.
+
+Enter from whichever axis matches the question you actually have. Each document back-links to its counterpart so no reader is trapped in one view.
