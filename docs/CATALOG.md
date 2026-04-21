@@ -928,6 +928,207 @@ Cross-axis references used in `docs/skills/regulatory_appendix.md`. Applicable t
 | CFPB. *Credit Denials Using AI* | 2023+ | Financial services | [CFPB](https://www.consumerfinance.gov/about-us/newsroom/cfpb-issues-guidance-credit-denials-lenders-using-artificial-intelligence/) | skills/regulatory_appendix §7 |
 | WEF. *AI Governance Alliance publications* | ongoing | Cross-jurisdiction | [WEF](https://www.weforum.org/publications/ai-governance-alliance/) | skills/regulatory_appendix §1 |
 
+## Healthcare / Bio AI — Commercial, Pharma, Provider (Special Topic)
+
+Used across the three `docs/special/` healthcare documents. Covers pharma commercial AI, provider / hospital AI, and patient-adherence / payer AI.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Aktana. *Contextual Intelligence 360 launch* | 2024-2025 | Pharma NBA | [Aktana](https://www.aktana.com/news/aktana-launches-contextual-intelligence-360/) | special/healthcare_commercial_ai §1 |
+| Aktana. *NBA 14% sales-lift case* | 2025 | Pharma case study | [Aktana](https://www.aktana.com/resources/case-study-nba-activation/) | special/healthcare_commercial_ai §1 |
+| PharmaForceIQ. *Acquires Aktana* | 2026 | Pharma M&A | [PRNewswire](https://www.prnewswire.com/news-releases/pharmaforceiq-acquires-aktana-to-deliver-unparalleled-cross-functional-engagement-impact-for-pharma-302655185.html) | special/healthcare_commercial_ai §1 |
+| Komodo Health. *Prism & Sentinel launch* | 2024-2025 | Healthcare-map GenAI | [Komodo](https://www.komodohealth.com/press/komodo-health-launches-prism-and-sentinel/) | special/healthcare_commercial_ai §1 |
+| ZS Associates. *Everest Leader 2025 PEAK Matrix* | 2025 | Commercial AI | [ZS](https://www.zs.com/insights/zs-named-commercial-life-sciences-ai-leader-everest-group) | special/healthcare_commercial_ai §1 |
+| ZS ZAIDYN Commercial — [ZS](https://www.zs.com/products/zaidyn-platform/commercial) | ongoing | Pharma NBA | — | special/healthcare_commercial_ai §1 |
+| Swoop. *Predictive AI Targeting* | 2024 | HCP targeting | [Swoop](https://swoop.com/blog/swoop-launches-predictive-ai-targeting-the-next-generation-of-healthcare-marketing/) | special/healthcare_commercial_ai §1; sales_skill §2.9 |
+| Doceree. *Premium Programmatic* | 2025 | HCP programmatic | [PRNewswire](https://www.prnewswire.com/news-releases/doceree-launches-premium-programmatic-adding-more-context-more-reach-and-more-formats-to-traditional-hcp-programmatic-302535838.html) | special/healthcare_commercial_ai §1 |
+| Eversana Intouch. *AI agency on Google Cloud* | 2025 | Pharma agency | [Eversana Intouch](https://www.eversanaintouch.com/blog/press-releases/eversana-announces-development-of-end-to-end-ai-powered-life-sciences-marketing-agency-built-on-google-cloud-technology/) | special/healthcare_commercial_ai §1 |
+| Veeva. *AI for PromoMats (Quick Check / Content Agents)* | 2025 | MLR AI | [Veeva](https://www.veeva.com/products/veeva-ai-for-promomats/) | special/healthcare_commercial_ai §3 |
+| Veeva. *AI Agents GA* (Dec 2025) | 2025 | Pharma agentic stack | [Veeva](https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/) | special/healthcare_commercial_ai §2-3 |
+| Salesforce Life Sciences Cloud for Customer Engagement | 2025 | Pharma CRM | [Salesforce](https://www.salesforce.com/life-sciences/cloud/customer-engagement/) | special/healthcare_commercial_ai §2 |
+| Salesforce. *Takeda selects LSC4CE* | 2025 | Case study | [Salesforce](https://www.salesforce.com/news/press-releases/2025/05/19/takeda-life-sciences-cloud-customer-engagement/) | special/healthcare_commercial_ai §2 |
+| IQVIA. *IQVIA.ai unified agentic platform* | 2026 | Pharma agentic | [IQVIA](https://www.iqvia.com/newsroom/2026/03/iqvia-unveils-iqvia-ai-a-unified-agentic-ai-platform) | special/healthcare_commercial_ai §2 |
+| Eversana. *Orchestrate MLR launch* | 2025 | MLR AI | [Eversana](https://www.eversana.com/2025/04/10/eversana-unveils-eversana-orchestrate-mlr-an-ai-powered-solution-to-transform-the-medical-legal-regulatory-process/) | special/healthcare_commercial_ai §3 |
+| Aprimo + SecureCHEK AI for pharma | 2024 | MLR / DAM AI | [Aprimo](https://www.aprimo.com/blog/aprimo-securecheckai-deliver-ai-marketing-tool-for-pharma) | special/healthcare_commercial_ai §3 |
+| Latham & Watkins. *FDA DTC enforcement crackdown* | 2025 | DTC regulatory | [L&W](https://www.lw.com/en/insights/fda-begins-crackdown-on-direct-to-consumer-pharmaceutical-advertising) | special/healthcare_commercial_ai §4 |
+| King & Spalding. *2025 FDA Ad Enforcement Review* | 2025 | DTC enforcement | [K&S](https://www.kslaw.com/news-and-insights/2025-year-in-review-fda-drug-and-device-advertising-and-promotion-enforcement) | special/healthcare_commercial_ai §4 |
+| ABPI 2024 Code of Practice | 2024 | UK pharma advertising | [ABPI](https://www.abpi.org.uk/publications/code-of-practice-for-the-pharmaceutical-industry-2024/) | special/healthcare_commercial_ai §3-4 |
+| AllazoHealth. *12.2% cardiovascular adherence case* | 2025 | Adherence marketing | [BusinessWire](https://www.businesswire.com/news/home/20250127216905/en/Top-Cardiovascular-Medication-Brand-Sees-12.2-Increase-in-Therapy-Adherence-Rate-with-AllazoHealths-AI-Enabled-Dynamic-Modular-Emails) | special/healthcare_commercial_ai §5 |
+| Phreesia. *Life-sciences pharma advertising* | 2025 | Point-of-care | [Phreesia](https://networksolutions.phreesia.com/pharma-advertising/) | special/healthcare_commercial_ai §5 |
+| Accredo / Evernorth. *EMR integration adherence* | 2024 | Specialty pharmacy AI | [Evernorth](https://www.evernorth.com/articles/accredo-emr-difference-improving-processing-time-and-closing-gaps-care) | special/healthcare_commercial_ai §5 |
+| Eversana + Waltz Health merger | 2025 | Pharma commercialization M&A | [Eversana](https://www.eversana.com/2025/08/26/eversana-merges-with-waltz-health-to-create-a-new-force-in-pharma-commercialization-and-prescription-drug-access/) | special/healthcare_commercial_ai §5 |
+| Cohere Health. *National AI PA Survey 2025* | 2025 | Payer AI | [Cohere](https://www.coherehealth.com/news/national-survey-ai-prior-authorization) | special/healthcare_commercial_ai §6 |
+| Cohere Health. *Ambient PA at point of care* | 2025 | Payer AI | [PRNewswire](https://www.prnewswire.com/news-releases/cohere-health-improves-provider-experience-with-ai-powered-ambient-prior-authorization-at-the-point-of-care-302585634.html) | special/healthcare_commercial_ai §6 |
+| Hyro. *$45M growth round* | 2025 | Provider chatbots | [PRNewswire](https://www.prnewswire.com/news-releases/hyro-raises-45m-strategic-growth-round-to-accelerate-ai-agent-adoption-in-healthcare-302589268.html) | special/healthcare_commercial_ai §8 |
+| Hyro. *Sutter Health partnership* | 2025 | Case study | [PRNewswire](https://www.prnewswire.com/news-releases/sutter-health-teams-up-with-hyro-to-revolutionize-patient-communications-through-ai-302558295.html) | special/healthcare_commercial_ai §8 |
+| Fierce Healthcare. *Tampa General + Hyro* | 2025 | Case study | [Fierce](https://www.fiercehealthcare.com/ai-and-machine-learning/how-tampa-general-hospital-and-startup-hyro-rolled-out-ai-voice-agents-3) | special/healthcare_commercial_ai §8 |
+| Qventus. *$105M Series D from KKR* | 2025 | Hospital operations | [Qventus](https://www.qventus.com/company/newsroom/qventus-announces-105-million-investment-series-d-led-by-kkr/) | special/healthcare_commercial_ai §10 |
+| LeanTaaS. *Best in KLAS 2025* | 2025 | Capacity optimization | [LeanTaaS](https://leantaas.com/press-releases/leantaas-recognized-as-best-in-klas-2025-for-capacity-optimization-management/) | special/healthcare_commercial_ai §10 |
+| Salesforce. *Agentforce for Health* | 2025 | Provider CRM | [Salesforce](https://www.salesforce.com/news/stories/agentforce-for-health-announcement/) | special/healthcare_commercial_ai §9 |
+| Salesforce. *UChicago + Agentforce* | 2025 | Case study | [Salesforce](https://www.salesforce.com/news/press-releases/2025/06/24/university-chicago-agentforce-patient-support/) | special/healthcare_commercial_ai §9 |
+| Innovaccer. *$275M Series F* | 2025 | Provider CRM / analytics | [Healthcare IT Today](https://www.healthcareittoday.com/2025/01/24/innovaccer-secures-275m-in-series-f-to-scale-its-healthcare-intelligence-cloud/) | special/healthcare_commercial_ai §9, §11 |
+| Innovaccer. *Best in KLAS 2026 sweep* | 2026 | Industry recognition | [BusinessWire](https://www.morningstar.com/news/business-wire/20260204752551/innovaccer-achieves-best-in-klas-across-data-ai-platform-for-providers-payer-ai-and-crm) | special/healthcare_commercial_ai §9, §11 |
+| Epic Cheers CRM — [Epic](https://www.epic.com/software/cheers/) | ongoing | Provider CRM | — | special/healthcare_commercial_ai §9 |
+| Oracle. *Next-Generation EHR (Oct 2024)* | 2024 | Voice-first agentic EHR | [Oracle](https://www.oracle.com/news/announcement/oracle-unveils-next-generation-ehr-2024-10-29/) | special/healthcare_commercial_ai §9 |
+| Fierce Healthcare. *Oracle voice-first EHR* | 2025 | Product coverage | [Fierce](https://www.fiercehealthcare.com/health-tech/oracle-health-debuts-ai-powered-ehr-designed-voice-first-solution-embedded-agentic-ai) | special/healthcare_commercial_ai §9 |
+| Amwell. *SilverCloud/Conversa $320M* | 2021 | Digital health M&A | [Healthcare Dive](https://www.healthcaredive.com/news/amwell-snaps-up-2-digital-health-startups-in-320m-longitudinal-behavioral/604120/) | special/healthcare_commercial_ai §8 |
+| Notable + Inova partnership — [PRNewswire](https://www.prnewswire.com/news-releases/inova-health-partners-with-notable-to-support-system-wide-ai-and-digital-transformation-strategy-302654419.html) | 2026 | Case study | — | special/healthcare_commercial_ai §8 |
+| Press Ganey Reputation Management — [Press Ganey](https://info.pressganey.com/press-ganey-blog-healthcare-experience-insights/reputation-management-solution) | ongoing | Reputation AI | — | special/healthcare_commercial_ai §7 |
+| PurpleLab + DeepIntent — [PurpleLab](https://purplelab.com/deepintent-purplelab-healthcare-targeting/) | 2025 | Intent data | — | special/healthcare_commercial_ai §7 |
+| Cardinal Digital. *Primary-care SEO in AI-search era* — [Cardinal](https://www.cardinaldigitalmarketing.com/healthcare-resources/blog/search-content-strategy-ai-landscape/) | 2025 | Healthcare SEO | — | special/healthcare_commercial_ai §7 |
+| Cotiviti. *2026 risk-adjustment outlook* — [Cotiviti](https://resources.cotiviti.com/risk-adjustment/key-commercial-risk-adjustment-updates-as-2026-approaches) | 2026 | Payer analytics | — | special/healthcare_commercial_ai §11 |
+| Rock Health. *2025 Year-End Digital Health Funding* | 2026 | Market report | [Rock Health](https://rockhealth.com/insights/2025-year-end-digital-health-funding-overview-a-tale-of-two-markets/) | special/healthcare_commercial_ai §12; drug_discovery_and_clinical_ai |
+| Caresyntax. *AI + video analytics in OR* — [Caresyntax](https://caresyntax.com/blog/how-ai-and-video-analytics-are-transforming-operating-room-outcomes/) | 2024 | Surgical AI | — | special/healthcare_commercial_ai §10 |
+| WebMD. *Acquires Mercury Healthcare* | 2022 | M&A | [PRNewswire](https://www.prnewswire.com/news-releases/webmd-health-corp-acquires-mercury-healthcare-building-on-leadership-in-patient-engagement-solutions-301577681.html) | special/healthcare_commercial_ai §7 |
+
+## Healthcare / Bio AI — Bio Foundation Models, Drug Discovery, Clinical AI (Special Topic)
+
+Used in `special/drug_discovery_and_clinical_ai.md`.
+
+| Paper / tool | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| Abramson et al. *AlphaFold 3* | 2024 | Bio foundation model — *Nature* | [Nature](https://www.nature.com/articles/s41586-024-07487-w) | special/drug_discovery_and_clinical_ai §1 |
+| Isomorphic Labs. *AlphaFold 3 overview* | 2024 | Vendor coverage | [Isomorphic](https://www.isomorphiclabs.com/articles/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules) | special/drug_discovery_and_clinical_ai §1 |
+| EvolutionaryScale. *ESM-3* | 2024 | 98B-parameter protein LM | [EvolutionaryScale](https://www.evolutionaryscale.ai/blog/esm3-release) | special/drug_discovery_and_clinical_ai §1 |
+| *Simulating 500M years of evolution* (ESM-3) | 2024 | bioRxiv | [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v2.full) | special/drug_discovery_and_clinical_ai §1 |
+| Meta FAIR. *ESMFold / ESM Atlas* | 2023 | Protein LM | [GitHub](https://github.com/facebookresearch/esm) | special/drug_discovery_and_clinical_ai §1 |
+| Arc Institute. *Evo DNA foundation model* | 2024 | Genome foundation | [Arc](https://arcinstitute.org/news/evo) | special/drug_discovery_and_clinical_ai §1 |
+| Arc Institute. *Evo-2 preprint* | 2025 | 40B genome model | [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1) | special/drug_discovery_and_clinical_ai §1 |
+| Arc Institute. *Evo 2 tool page* | 2025 | Tool | [Arc](https://arcinstitute.org/tools/evo) | special/drug_discovery_and_clinical_ai §1 |
+| Krishna et al. *RoseTTAFold All-Atom* | 2024 | *Science* | [Science](https://www.science.org/doi/10.1126/science.adl2528) | special/drug_discovery_and_clinical_ai §1 |
+| Cheng et al. *AlphaMissense* | 2023 | *Science* | [Science](https://www.science.org/doi/10.1126/science.adg7492) | special/drug_discovery_and_clinical_ai §1 |
+| Wohlwend, Corso et al. *Boltz-1* | 2024 | MIT Jameel open AF3-equivalent | [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v1) | special/drug_discovery_and_clinical_ai §1 |
+| MIT News. *Boltz-1 open release* | 2024 | Coverage | [MIT](https://news.mit.edu/2024/researchers-introduce-boltz-1-open-source-model-predicting-biomolecular-structures-1217) | special/drug_discovery_and_clinical_ai §1 |
+| Boltz-2 preprint | 2025 | MIT + Recursion | [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1) | special/drug_discovery_and_clinical_ai §1 |
+| Recursion IR. *Boltz-2 release* | 2025 | Vendor coverage | [Recursion](https://ir.recursion.com/news-releases/news-release-details/mit-and-recursion-release-boltz-2-next-generation-ai-model) | special/drug_discovery_and_clinical_ai §1 |
+| OpenFold3 preview | 2025 | Open AF3-equivalent | [BusinessWire](https://www.businesswire.com/news/home/20251028507233/en/OpenFold-Consortium-Releases-Preview-of-OpenFold3) | special/drug_discovery_and_clinical_ai §1 |
+| Insilico Medicine. *Rentosertib Phase 2a, Nature Medicine* | 2025 | First AI-designed drug POC | [Insilico](https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40461817/) | special/drug_discovery_and_clinical_ai §2 |
+| Recursion + Exscientia merger | 2024 | AI biotech M&A | [Recursion](https://ir.recursion.com/news-releases/news-release-details/recursion-and-exscientia-two-leaders-ai-drug-discovery-space) | special/drug_discovery_and_clinical_ai §2 |
+| Xaira Therapeutics launch | 2024 | AI biotech | [BusinessWire](https://www.businesswire.com/news/home/20240423707240/en/Xaira-Therapeutics-Launches) | special/drug_discovery_and_clinical_ai §2 |
+| Isomorphic Labs. *Novartis / Lilly deals* | 2024 | Pharma partnerships | [Isomorphic](https://www.isomorphiclabs.com/articles/isomorphic-labs-kicks-off-2024-with-two-pharmaceutical-collaborations) | special/drug_discovery_and_clinical_ai §2 |
+| Fortune. *Isomorphic first human trials* | 2025 | Clinical entry | [Fortune](https://fortune.com/2025/07/06/deepmind-isomorphic-labs-cure-all-diseases-ai-now-first-human-trials/) | special/drug_discovery_and_clinical_ai §2 |
+| Absci Q3 2025 financials | 2025 | Vendor filings | [Absci IR](https://investors.absci.com/news-releases/news-release-details/absci-reports-business-updates-and-third-quarter-2025-financial/) | special/drug_discovery_and_clinical_ai §2 |
+| Generate Biomedicines. *SOLAIRIA Phase 3 GB-0895* | 2025 | AI-engineered mAb | [Generate](https://generatebiomedicines.com/media-center/generatebiomedicines-to-initiate-global-phase-3-studies-of-gb-0895-a-long-acting-anti-tslp-antibody-for-severe-asthma-engineered-with-ai) | special/drug_discovery_and_clinical_ai §2 |
+| Inceptive $100M Series A | 2023-2024 | AI mRNA | [Nasdaq](https://www.nasdaq.com/articles/biotech-startup-inceptive-secures-$100-mln-funding) | special/drug_discovery_and_clinical_ai §2 |
+| BenevolentAI delisting | 2024-2025 | AI biotech cautionary | [BusinessCloud](https://businesscloud.co.uk/news/more-layoffs-as-benevolentai-plans-to-delist-return-to-original-mission/) | special/drug_discovery_and_clinical_ai §2 |
+| Valence Labs. *MolGPS GNN* | 2024 | Molecular property prediction | [Valence](https://www.valencelabs.com/introducing-molgps-a-foundational-gnn-for-molecular-property-prediction/) | special/drug_discovery_and_clinical_ai §2 |
+| Tempus AI IPO | 2024 | AI RWE IPO | [Tempus](https://www.tempus.com/news/pr/tempus-announces-pricing-of-initial-public-offering/) | special/drug_discovery_and_clinical_ai §4 |
+| Tempus + Deep 6 AI acquisition | 2025 | Trial-matching M&A | [Tempus](https://www.tempus.com/news/pr/tempus-announces-acquisition-of-deep-6-ai/) | special/drug_discovery_and_clinical_ai §3 |
+| Mendel.ai — [Mendel](https://www.mendel.ai/) | ongoing | Trial matching | — | special/drug_discovery_and_clinical_ai §3 |
+| Unlearn.AI FDA/EMA framework blog | 2024-2025 | Synthetic control arms | [Unlearn](https://www.unlearn.ai/blog/how-unlearn-boosts-trial-power-using-the-fdas-ai-framework) | special/drug_discovery_and_clinical_ai §3 |
+| Medidata Synthetic Control Arm — [Medidata](https://www.medidata.com/en/clinical-trial-products/medidata-ai/real-world-data/synthetic-control-arm/) | ongoing | Synthetic controls | — | special/drug_discovery_and_clinical_ai §3 |
+| Medable — [Medable](https://www.medable.com/) | ongoing | Decentralized trials | — | special/drug_discovery_and_clinical_ai §3 |
+| Roche acquires Flatiron Health | 2018 | Oncology RWE M&A | [Flatiron](https://resources.flatiron.com/press/press-release/roche-completes-acquisition-of-flatiron-health) | special/drug_discovery_and_clinical_ai §4 |
+| Komodo Health ISPOR 2025 — [Komodo](https://www.komodohealth.com/press/rwe-platform-drives-patient-journey-research-studies-ispor-2025/) | 2025 | RWE | — | special/drug_discovery_and_clinical_ai §4 |
+| Truveta Live Link — [Truveta](https://www.truveta.com/blog/news/truveta-live-link-real-world-evidence/) | 2025 | RWE | — | special/drug_discovery_and_clinical_ai §4 |
+| Regina Barzilay. *IEEE Frances E. Allen Medal 2025* | 2025 | MIT Jameel Clinic | [MIT Jameel](https://jclinic.mit.edu/2025-ieee-regina-barzilay/) | special/drug_discovery_and_clinical_ai §5; DD7; DD8 |
+| Tommi Jaakkola — [MIT EECS](https://www.eecs.mit.edu/people/tommi-jaakkola/) | ongoing | MIT CSAIL / Jameel | — | special/drug_discovery_and_clinical_ai §5; DD7 |
+| Jim Collins. *NG1 / DN1 AI antibiotics* | 2025 | MIT IMES / Broad / Wyss | [MIT News](https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814) | special/drug_discovery_and_clinical_ai §5 |
+| Caroline Uhler — [MIT IDSS](https://idss.mit.edu/staff/caroline-uhler/) | ongoing | MIT IDSS / Broad | — | special/drug_discovery_and_clinical_ai §5; DD7 |
+| Manolis Kellis — [compbio.mit.edu](https://compbio.mit.edu/) | ongoing | MIT CSAIL / Broad | — | special/drug_discovery_and_clinical_ai §5; DD7 |
+| MIT Jameel Clinic — [jclinic.mit.edu](https://jclinic.mit.edu/) | ongoing | Institute | — | special/drug_discovery_and_clinical_ai §5; DD7; DD8 |
+| FDA AI/ML-Enabled Medical Devices list | ongoing | Regulatory baseline | [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices) | special/drug_discovery_and_clinical_ai §6; healthcare_ai_regulation_and_sdm §2 |
+| FDA. *Paige Prostate DEN200080* | 2021 | First AI pathology De Novo | [FDA](https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN200080.pdf) | special/drug_discovery_and_clinical_ai §6 |
+| FDA. *EndeavorRx DEN200026* | 2020 | First DTx De Novo | [FDA](https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN200026.pdf) | special/drug_discovery_and_clinical_ai §10 |
+| FDA. *Mahana IBS K211372* | 2021 | DTx 510(k) | [FDA](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211372.pdf) | special/drug_discovery_and_clinical_ai §10 |
+| The Imaging Wire. *FDA AI approvals past 1k* | 2025 | Regulatory update | [Imaging Wire](https://theimagingwire.com/2025/12/10/ai-enabled-medical-devices-granted-fda-marketing-authorization/) | special/drug_discovery_and_clinical_ai §6 |
+| Innolitics. *2025 AI/ML 510(k) review* | 2025 | Analyst coverage | [Innolitics](https://innolitics.com/articles/year-in-review-ai-ml-medical-device-k-clearances/) | special/drug_discovery_and_clinical_ai §6 |
+| Aidoc. *Jan 2026 comprehensive CT foundation model* | 2026 | Radiology AI | [Aidoc](https://www.aidoc.com/about/news/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai/) | special/drug_discovery_and_clinical_ai §6 |
+| Viz.ai. *Viz AAA first AAA AI clearance* | 2023 | Vascular AI | [Viz](https://www.viz.ai/news/viz-ai-is-first-to-receive-fda-510-k-clearance-for-ai-algorithm-for-abdominal-aortic-aneurysm) | special/drug_discovery_and_clinical_ai §6 |
+| Viz.ai. *Viz ICH Plus (Feb 2024)* | 2024 | Stroke AI | [Viz](https://www.viz.ai/news/viz-ai-receives-fda-510k-clearance-for-artificial-intelligence-algorithm-for-the-quantification-of-intracerebral-hemorrhage) | special/drug_discovery_and_clinical_ai §6 |
+| Paige. *First digital pathology AI clearance* | 2021 | Pathology AI | [BusinessWire](https://www.businesswire.com/news/home/20210922005369/en/) | special/drug_discovery_and_clinical_ai §6 |
+| PathAI. *AISight Dx primary-diagnosis clearance* | 2025 | Pathology AI | [PathAI](https://www.pathai.com/news/pathai-receives-fda-clearance-for-aisight-dx-platform-for-primary-diagnosis) | special/drug_discovery_and_clinical_ai §6 |
+| HeartFlow Category I CPT (Jan 2024) | 2024 | Reimbursement | [HeartFlow](https://www.heartflow.com/press-release/Heartflow-announces-new-reimbursement-code-and-increased-payment-for-ffrct/) | special/drug_discovery_and_clinical_ai §6 |
+| HeartFlow AI plaque analysis CPT | 2024 | Reimbursement | [HeartFlow](https://www.heartflow.com/newsroom/heartflow-announces-new-category-i-cpt-code/) | special/drug_discovery_and_clinical_ai §6 |
+| Nanox HealthCCSng V2.0 clearance | 2024 | Imaging AI | [Nanox IR](https://investors.nanox.vision/news-releases/news-release-details/nanox-receives-fda-clearance-healthccsng-v20-upgraded-version) | special/drug_discovery_and_clinical_ai §6 |
+| Microsoft. *Dragon Copilot (March 2025)* | 2025 | Ambient scribe | [Microsoft](https://news.microsoft.com/source/2025/03/03/microsoft-dragon-copilot-provides-the-healthcare-industrys-first-unified-voice-ai-assistant-that-enables-clinicians-to-streamline-clinical-documentation-surface-information-and-automate-task/) | special/drug_discovery_and_clinical_ai §7 |
+| Ma et al. *Ambient AI scribes physician burnout* | 2024 | *JAMIA* study | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11756571/) | special/drug_discovery_and_clinical_ai §7 |
+| Abridge. *$300M Series E* | 2025 | Funding | [Fierce](https://www.fiercehealthcare.com/ai-and-machine-learning/ambient-ai-startup-abridge-scores-300m-series-e-backed-a16z-and-khosla) | special/drug_discovery_and_clinical_ai §7 |
+| Abridge. *$250M Series D* | 2025 | Funding | [HIT Consultant](https://hitconsultant.net/2025/02/17/abridge-raises-250m-to-advance-ai-powered-clinical-documentation/) | special/drug_discovery_and_clinical_ai §7 |
+| Suki $70M | 2024 | Funding | [Mobihealthnews](https://www.mobihealthnews.com/news/suki-secures-70m-enhance-its-ai-ambient-scribe-offerings) | special/drug_discovery_and_clinical_ai §7 |
+| Commure acquires Augmedix $139M | 2024 | M&A | [Healthcare Dive](https://www.healthcaredive.com/news/commure-acquire-augmedix-ai-documentation/721978/) | special/drug_discovery_and_clinical_ai §7 |
+| Epic AI Charting Feb 2026 | 2026 | Native EHR AI | [Healthcare Dive](https://www.healthcaredive.com/news/epic-rolls-out-ai-charting-art-notetaking-documentation-scribe/811462/) | special/drug_discovery_and_clinical_ai §7 |
+| Singhal et al. *Med-PaLM* | 2023 | Nature | [Nature](https://www.nature.com/articles/s41586-023-06291-2) | special/drug_discovery_and_clinical_ai §8 |
+| Singhal et al. *Med-PaLM 2* | 2025 | Nature Medicine | [Nature Medicine](https://www.nature.com/articles/s41591-024-03423-7) | special/drug_discovery_and_clinical_ai §8 |
+| Saab et al. *Med-Gemini* | 2024 | arXiv | [arXiv](https://arxiv.org/abs/2404.18416) | special/drug_discovery_and_clinical_ai §8 |
+| Tu et al. *AMIE* | 2025 | Nature | [Nature](https://www.nature.com/articles/s41586-025-08866-7) | special/drug_discovery_and_clinical_ai §8 |
+| Arora et al. *HealthBench* | 2025 | OpenAI arXiv | [arXiv](https://arxiv.org/abs/2505.08775) | special/drug_discovery_and_clinical_ai §8 |
+| John Snow Labs Medical LLM | 2024 | Benchmark leadership | [JSL](https://www.johnsnowlabs.com/john-snow-labs-achieves-new-state-of-the-art-medical-llm-accuracy-benchmarks-outperforming-gpt-4-med-palm2-and-hundreds-of-others/) | special/drug_discovery_and_clinical_ai §8 |
+| OpenEvidence Series D $12B Jan 2026 | 2026 | Medical-LLM commercial | [Crunchbase](https://news.crunchbase.com/venture/openevidence-ai-doctors-doubles-valuation-seriesd/) | special/drug_discovery_and_clinical_ai §8 |
+| Hippocratic AI Series C $126M | 2025 | Non-diagnostic agentic | [Hippocratic](https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/) | special/drug_discovery_and_clinical_ai §8 |
+| Gilbert et al. *BMJ Open symptom-checker comparison* | 2020 | Triage accuracy | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745523/) | special/drug_discovery_and_clinical_ai §9 |
+| TechCrunch. *Babylon collapse* | 2023 | Cautionary case | [TechCrunch](https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/) | special/drug_discovery_and_clinical_ai §9; healthcare_ai_regulation_and_sdm §7 |
+| Akili. *EndeavorOTC FDA authorization* | 2024 | OTC DTx | [BusinessWire](https://www.businesswire.com/news/home/20240618578815/en/) | special/drug_discovery_and_clinical_ai §10 |
+| Stern et al. *Germany DiGA reimbursement* | 2024 | DTx policy | [Nature npj DM](https://www.nature.com/articles/s41746-024-01137-1) | special/drug_discovery_and_clinical_ai §10 |
+
+## Healthcare AI Regulation and SDM Lens (Special Topic)
+
+Used in `special/healthcare_ai_regulation_and_sdm.md`.
+
+| Source | Year | Focus | Link | Discussed in |
+|---|---|---|---|---|
+| HIPAA Privacy Rule for Reproductive Health Care Privacy | 2024 | HHS OCR final rule | [Federal Register](https://www.federalregister.gov/documents/2024/04/26/2024-08503/hipaa-privacy-rule-to-support-reproductive-health-care-privacy) | special/healthcare_ai_regulation_and_sdm §1 |
+| HHS Reproductive Health Final Rule fact sheet | 2024 | Agency summary | [HHS](https://www.hhs.gov/hipaa/for-professionals/special-topics/reproductive-health/final-rule-fact-sheet/index.html) | special/healthcare_ai_regulation_and_sdm §1 |
+| HIPAA Security Rule NPRM (Dec 2024) | 2024 | First Security Rule update since 2013 | [Federal Register](https://www.federalregister.gov/documents/2025/01/06/2024-30983/hipaa-security-rule-to-strengthen-the-cybersecurity-of-electronic-protected-health-information) | special/healthcare_ai_regulation_and_sdm §1 |
+| HHS OCR NPRM fact sheet | 2024 | Agency summary | [HHS](https://www.hhs.gov/hipaa/for-professionals/security/hipaa-security-rule-nprm/factsheet/index.html) | special/healthcare_ai_regulation_and_sdm §1 |
+| HHS Section 1557 ACA final rule | 2024 | Nondiscrimination for decision-support | [Federal Register](https://www.federalregister.gov/documents/2024/05/06/2024-08711/nondiscrimination-in-health-programs-and-activities) | special/healthcare_ai_regulation_and_sdm §1 |
+| HHS OCR de-identification guidance | 2012 | Safe Harbor + Expert Determination | [HHS](https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html) | special/healthcare_ai_regulation_and_sdm §1 |
+| FDA PCCP Final Guidance (Dec 2024) | 2024 | SaMD lifecycle artifact | [FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence) | special/healthcare_ai_regulation_and_sdm §2 |
+| Federal Register 2024-28361 (PCCP) | 2024 | Federal Register | [Federal Register](https://www.federalregister.gov/documents/2024/12/04/2024-28361/marketing-submission-recommendations-for-a-predetermined-change-control-plan-for-artificial) | special/healthcare_ai_regulation_and_sdm §2 |
+| FDA AI-Enabled Device SW Functions Draft Guidance (Jan 2025) | 2025 | TPLC lifecycle | [FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/artificial-intelligence-enabled-device-software-functions-lifecycle-management-and-marketing) | special/healthcare_ai_regulation_and_sdm §2 |
+| Federal Register notice for Jan 2025 draft | 2025 | Federal Register | [Federal Register](https://www.federalregister.gov/documents/2025/01/07/2024-31543/artificial-intelligence-enabled-device-software-functions-lifecycle-management-and-marketing) | special/healthcare_ai_regulation_and_sdm §2 |
+| FDA / Health Canada / MHRA GMLP guiding principles | 2021 | International SaMD practice | [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles) | special/healthcare_ai_regulation_and_sdm §2 |
+| FDA Transparency Principles for ML-Enabled Medical Devices | 2021 | Transparency | [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/transparency-machine-learning-enabled-medical-devices-guiding-principles) | special/healthcare_ai_regulation_and_sdm §2 |
+| FDA Digital Health Advisory Committee — [FDA](https://www.fda.gov/medical-devices/digital-health-center-excellence/fda-digital-health-advisory-committee) | ongoing | Advisory structure | — | special/healthcare_ai_regulation_and_sdm §2 |
+| DHAC Nov 2024 meeting | 2024 | GenAI devices agenda | [FDA](https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-20-21-2024-digital-health-advisory-committee-meeting-announcement-11202024) | special/healthcare_ai_regulation_and_sdm §2 |
+| DHAC Nov 2025 GenAI mental-health | 2025 | GenAI DTx agenda | [FDA](https://www.fda.gov/advisory-committees/advisory-committee-calendar/november-6-2025-digital-health-advisory-committee-meeting-announcement-11062025) | special/healthcare_ai_regulation_and_sdm §2 |
+| FDA CDS FAQs §3060 — [FDA](https://www.fda.gov/medical-devices/software-medical-device-samd/clinical-decision-support-software-frequently-asked-questions-faqs) | ongoing | CDS exemption | — | special/healthcare_ai_regulation_and_sdm §2 |
+| EU AI Act Article 6 — [AI Act portal](https://artificialintelligenceact.eu/article/6/) | 2024 | High-risk classification | — | special/healthcare_ai_regulation_and_sdm §3 |
+| Regulation (EU) 2017/745 MDR — [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20240709) | 2017 | Medical Device Regulation | — | special/healthcare_ai_regulation_and_sdm §3 |
+| Regulation (EU) 2017/746 IVDR — [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0746-20240709) | 2017 | IVD Regulation | — | special/healthcare_ai_regulation_and_sdm §3 |
+| MDCG 2019-11 Rev.1 | 2025 | Software classification clarification | [EC](https://health.ec.europa.eu/latest-updates/update-mdcg-2019-11-rev1-qualification-and-classification-software-regulation-eu-2017745-and-2025-06-17_en) | special/healthcare_ai_regulation_and_sdm §3 |
+| EMA Reflection Paper on AI in the Medicinal Product Lifecycle | 2024 | EMA guidance | [EMA](https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-use-artificial-intelligence-ai-medicinal-product-lifecycle_en.pdf) · [EMA page](https://www.ema.europa.eu/en/use-artificial-intelligence-ai-medicinal-product-lifecycle-scientific-guideline) | special/healthcare_ai_regulation_and_sdm §3 |
+| Reed Smith. *AI Act and medical devices* | 2024 | Legal commentary | [Reed Smith](https://www.reedsmith.com/en/perspectives/2024/10/the-eu-ai-act-and-medical-devices-navigating-high-risk-compliance) | special/healthcare_ai_regulation_and_sdm §3 |
+| WHO 2021 *Ethics and Governance of AI for Health* | 2021 | Six principles | [WHO](https://www.who.int/publications/i/item/9789240029200) | special/healthcare_ai_regulation_and_sdm §4 |
+| WHO Jan 2024 LMM guidance | 2024 | Large multi-modal models | [WHO](https://www.who.int/publications/i/item/9789240084759) · [WHO news](https://www.who.int/news/item/18-01-2024-who-releases-ai-ethics-and-governance-guidance-for-large-multi-modal-models) | special/healthcare_ai_regulation_and_sdm §4 |
+| WHO Global Initiative on AI for Health (GI-AI4H) | 2023 | Governance initiative | [WHO](https://www.who.int/initiatives/global-initiative-on-ai-for-health) | special/healthcare_ai_regulation_and_sdm §4 |
+| IEC 62304 medical-device software lifecycle | 2006+ | Safety classes A/B/C | [ISO](https://www.iso.org/standard/38421.html) | special/healthcare_ai_regulation_and_sdm §4 |
+| IEC TR 60601-4-5:2021 security capabilities | 2021 | IEC 62443-aligned | [IEC](https://webstore.iec.ch/en/publication/64703) | special/healthcare_ai_regulation_and_sdm §4 |
+| California AB 2013 GenAI training-data transparency | 2024 | State law | [CA Legislature](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB2013) | special/healthcare_ai_regulation_and_sdm §4 |
+| California AB 3030 physician-AI disclosure | 2024 | State law | [CA Legislature](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB3030) | special/healthcare_ai_regulation_and_sdm §4 |
+| Utah SB 149 AI Policy Act | 2024 | State law | [UT Legislature](https://le.utah.gov/~2024/bills/static/SB0149.html) | special/healthcare_ai_regulation_and_sdm §4 |
+| Colorado SB 24-205 | 2024 | High-risk AI | [CO Legislature](https://leg.colorado.gov/bills/sb24-205) | special/healthcare_ai_regulation_and_sdm §4 |
+| Washington My Health My Data Act (RCW 19.373) | 2023-2024 | Health-inference data | [WA Legislature](https://app.leg.wa.gov/RCW/default.aspx?cite=19.373&full=true) | special/healthcare_ai_regulation_and_sdm §4 |
+| CMS-4201-F final rule | 2023 | MA coverage AI restriction | [CMS](https://www.cms.gov/newsroom/fact-sheets/2024-medicare-advantage-and-part-d-final-rule-cms-4201-f) | special/healthcare_ai_regulation_and_sdm §4; special/healthcare_commercial_ai §6 |
+| NYC Local Law 144 AEDT — [NYC](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page) | 2023 | Bias-audit template | — | special/healthcare_ai_regulation_and_sdm §10 |
+| Obermeyer et al. *Dissecting racial bias* | 2019 | *Science* landmark | [Science](https://www.science.org/doi/10.1126/science.aax2342) | special/healthcare_ai_regulation_and_sdm §6 |
+| Seyyed-Kalantari et al. *Underdiagnosis bias in chest X-ray AI* | 2021 | *Nature Medicine* | [Nature Medicine](https://www.nature.com/articles/s41591-021-01595-0) | special/healthcare_ai_regulation_and_sdm §6 |
+| Perdomo et al. *Performative Prediction* | 2020 | ICML foundational | [PMLR](https://proceedings.mlr.press/v119/perdomo20a.html) | special/healthcare_ai_regulation_and_sdm §6 |
+| Hardt & Mendler-Dünner. *Performative Prediction: Past and Future* | 2023 | arXiv follow-up | [arXiv](https://arxiv.org/abs/2310.16608) | special/healthcare_ai_regulation_and_sdm §6 |
+| STAT News. *IBM Watson unsafe recommendations* | 2018 | Investigative coverage | [STAT](https://www.statnews.com/2018/07/25/ibm-watson-recommended-unsafe-incorrect-treatments/) | special/healthcare_ai_regulation_and_sdm §7 |
+| IBM. *Francisco Partners acquires Watson Health* | 2022 | Divestiture | [IBM](https://newsroom.ibm.com/2022-01-21-Francisco-Partners-to-Acquire-IBMs-Healthcare-Data-and-Analytics-Assets) | special/healthcare_ai_regulation_and_sdm §7 |
+| STAT News. *Merative rebrand* | 2022 | Rebranding | [STAT](https://www.statnews.com/2022/07/06/ibm-watson-health-merative-data/) | special/healthcare_ai_regulation_and_sdm §7 |
+| Wong et al. *External validation of Epic sepsis model* | 2021 | *JAMA Internal Medicine* | [JAMA IM](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2781307) | special/healthcare_ai_regulation_and_sdm §7 |
+| Habib et al. *Epic Sepsis model falls short* editorial | 2021 | *JAMA IM* editorial | [JAMA IM](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2781313) | special/healthcare_ai_regulation_and_sdm §7 |
+| 2024 Change Healthcare ransomware Wikipedia | 2024 | Supply-chain event | [Wikipedia](https://en.wikipedia.org/wiki/2024_Change_Healthcare_ransomware_attack) | special/healthcare_ai_regulation_and_sdm §7 |
+| TechCrunch. *MHRA concerns about Babylon* | 2021 | Regulatory coverage | [TechCrunch](https://techcrunch.com/2021/03/05/uks-mhra-says-it-has-concerns-about-babylon-health-and-flags-legal-gap-around-triage-chatbots/) | special/healthcare_ai_regulation_and_sdm §7 |
+| Sifted. *Rise and fall of Babylon* | 2023 | Post-mortem | [Sifted](https://sifted.eu/articles/the-rise-and-fall-of-babylon) | special/healthcare_ai_regulation_and_sdm §7 |
+| Perino et al. *Apple Watch AFib meta-analysis* | 2024 | Low-prevalence PPV | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11780081/) | special/healthcare_ai_regulation_and_sdm §7 |
+| *AHA Circulation editorial on Apple Watch AFib* — [AHA](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062292) | 2022 | Editorial | — | special/healthcare_ai_regulation_and_sdm §7 |
+| Mylius. *Systematic Hazard Analysis for Frontier AI using STPA* | 2025 | Frontier STPA | [arXiv](https://arxiv.org/abs/2506.01782) | special/healthcare_ai_regulation_and_sdm §8; skills/system_design_and_management §6 |
+| *STAMP/STPA-Informed Characterization of Loss of Control in AI* | 2025 | Frontier STPA | [arXiv](https://arxiv.org/abs/2512.17600) | special/healthcare_ai_regulation_and_sdm §8 |
+| *From Silos to Systems: Process-Oriented Hazard Analysis for AI* | 2024 | Process hazard | [arXiv](https://arxiv.org/html/2410.22526) | special/healthcare_ai_regulation_and_sdm §8 |
+| Qi et al. *STPA for Learning-Enabled Systems* | 2023 | Survey | [arXiv](https://arxiv.org/pdf/2302.10588) | special/healthcare_ai_regulation_and_sdm §8 |
+| *Benchmarking Federated Learning Frameworks for Medical Imaging* | 2025 | FL benchmark | [arXiv](https://arxiv.org/abs/2511.00037) | special/healthcare_ai_regulation_and_sdm §9 |
+| *JAMA Health Forum — Benefit-Risk Reporting for FDA-Cleared AI* | 2025 | Post-market surveillance | [JAMA HF](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2839236) | special/healthcare_ai_regulation_and_sdm §10 |
+| *A general framework for governing marketed AI/ML medical devices* | 2025 | *npj Digital Medicine* | [Nature npj DM](https://www.nature.com/articles/s41746-025-01717-9) | special/healthcare_ai_regulation_and_sdm §5 |
+| *Safety-net organizations in AI governance* | 2025 | *npj Digital Medicine* | [Nature npj DM](https://www.nature.com/articles/s41746-025-01479-4) | special/healthcare_ai_regulation_and_sdm §5 |
+| *International partnership for governing generative AI in medicine* | 2025 | *Nature Medicine* | [Nature Medicine](https://www.nature.com/articles/s41591-025-03787-4) | special/healthcare_ai_regulation_and_sdm §5 |
+| Parikh & Helmchen. *Paying for AI in medicine* | 2022 | *npj Digital Medicine* | [Nature npj DM](https://www.nature.com/articles/s41746-022-00609-6) | special/healthcare_ai_regulation_and_sdm §6 |
+| *Reimbursement framework for AI in healthcare* | 2022 | *npj Digital Medicine* | [Nature npj DM](https://www.nature.com/articles/s41746-022-00621-w) | special/healthcare_ai_regulation_and_sdm §6 |
+| *LLMs in health and regulatory safety standards* | 2024 | *Lancet Digital Health* | [Lancet DH](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00124-9/fulltext) | special/healthcare_ai_regulation_and_sdm §5 |
+| ONC HTI-1 Final Rule | 2024 | 31 PDSI source attributes | [ONC](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program) | special/healthcare_ai_regulation_and_sdm §10 |
+
 ---
 
 ## How to Use This Catalog

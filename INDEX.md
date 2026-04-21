@@ -51,6 +51,18 @@ Post-2023 topics not yet covered in the main deep dives. Read these for the curr
 | `docs/frontier/llm_enhanced_recommenders.md` | LLM-based recommenders | P5 (2022), TALLRec (2023), LLaRA (2024), E4SRec, LLM-SRec, instance-wise LoRA |
 | `docs/frontier/agentic_ai_marketing.md` | Autonomous agents, multi-agent coordination, RAG commerce | Deloitte/Gartner agentic stats, Dao (2025) topology analysis, RAG for commerce |
 
+### Special Topics (`docs/special/`)
+
+Cross-domain surveys that sit adjacent to the marketing-science core. They use the three-lens framework (Sales · Productization · SDM) to re-read an entire vertical the repo previously touched only briefly.
+
+| File | Topic | Core Coverage |
+|------|-------|----------------|
+| `docs/special/healthcare_bio_ai.md` | Overview and three-lens synthesis | Why healthcare AI differs; document map; three-lens summary; what is new vs. what was already in the repo |
+| `docs/special/healthcare_commercial_ai.md` | Pharma commercial + provider / hospital AI | HCP NBA (Aktana, Komodo, ZS ZAIDYN, Swoop, Doceree, Eversana); omnichannel triumvirate (Veeva, Salesforce LSC4CE, IQVIA.ai); MLR AI (Veeva Quick Check, Eversana Orchestrate MLR); DTC under Sept 2025 FDA OPDP crackdown; adherence (AllazoHealth, Phreesia, Accredo); payer AI (Cohere Health, CMS-4201-F); provider AI (Hyro, Qventus, LeanTaaS, Salesforce Agentforce for Health, Innovaccer, Epic Cheers, Oracle Health Clinical AI Agent, Notable); population health (Innovaccer, Arcadia, Health Catalyst, Cotiviti) |
+| `docs/special/drug_discovery_and_clinical_ai.md` | Bio foundation models + clinical AI | AlphaFold 3, ESM-3, Evo-2, RoseTTAFold All-Atom, AlphaMissense, Boltz-1 / Boltz-2 (MIT Jameel), OpenFold3; AI biotech (Insilico rentosertib *Nature Medicine* 2025, Recursion+Exscientia, Xaira, Isomorphic, Generate, Absci, Inceptive, BenevolentAI); clinical-trial AI (Tempus+Deep 6, Mendel.ai, Unlearn.AI, Medidata SCA); RWE AI (Flatiron, Tempus, Komodo, Truveta, ConcertAI); MIT connections (Barzilay, Jaakkola, Collins, Kellis, Uhler, Jameel Clinic); FDA-cleared SaMD landscape (1,451 devices Dec 2025); ambient scribes (Dragon Copilot, Abridge $5.3B, Suki, Epic AI Charting Feb 2026); medical LLMs (Med-PaLM 2, Med-Gemini, AMIE, HealthBench, OpenEvidence $12B, Hippocratic AI); DTx (Akili, Mahana, Big Health CMS DMHT codes Jan 2025, Pear bankruptcy) |
+| `docs/special/healthcare_ai_regulation_and_sdm.md` | Regulatory stack + SDM lens | HIPAA (reproductive-health vacated June 2025; Security Rule NPRM Dec 2024); FDA (PCCP final Dec 2024, AI DSF draft Jan 2025, 6 Jan 2026 CDS); EU MDR/IVDR Rule 11 + EU AI Act Art. 6 high-risk coupling; EMA Reflection Paper Sep 2024; WHO 2024 LMM; NIST AI RMF + AI 600-1; ISO/IEC 42001 + 13485 + IEC 62304 + IEC 81001-5-1; state laws (CA AB 2013/3030, CO SB 205, UT SB 149, WA MHMDA); CMS-4201-F. SDM lens: stakeholder topology, feedback loops (Obermeyer 2019, Seyyed-Kalantari 2021, performative prediction, reimbursement bias), case studies (IBM Watson, Epic sepsis, Babylon, Change Healthcare, Apple Watch AFib), STAMP/STPA for clinical AI, platform engineering under HIPAA (FLARE / Owkin / Flower; AWS HealthLake, GCP Healthcare API, Azure Health Data Services), PCCP as lifecycle artifact, Team Topologies for healthcare-AI orgs |
+| `docs/special/HEALTHCARE_AI_RESEARCH_PLAN.md` | Research plan that produced this set | Scope, themes, deliverables, out-of-scope |
+
 ### Skills Axis (`docs/skills/`)
 
 Cross-cutting lens that re-reads the repo by **organizational capability** rather than by marketing domain or AI method. Read these when you want to see the same research through a selling / investment / productization / systems-design lens.
@@ -103,6 +115,10 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | **Creative / Copy Generation** | frontier/generative_ai_and_llms_in_marketing |
 | **Conversational Commerce** | frontier/generative_ai_and_llms_in_marketing §5, frontier/agentic_ai_marketing |
 | **Agentic Marketing Workflows** | frontier/agentic_ai_marketing |
+| **Healthcare / Pharma Commercial** | special/healthcare_commercial_ai, sales_skill §2.9 |
+| **Provider / Hospital AI** | special/healthcare_commercial_ai (Part B) |
+| **Drug Discovery / Bio AI** | special/drug_discovery_and_clinical_ai |
+| **Clinical AI / Medical LLMs** | special/drug_discovery_and_clinical_ai |
 
 ### By Research Institution
 
@@ -165,6 +181,10 @@ Cross-cutting lens that re-reads the repo by **organizational capability** rathe
 | **SDM — Governance as system design** | skills/system_design_and_management §7 | "Decision rights / accountability graph / RACI for AI / model cards / policy-as-code" |
 | **SDM — Open thesis topics** | skills/system_design_and_management §10 | "Which 16 gaps in 2024-2026 literature can I scope for a thesis?" |
 | **Cross-axis — Regulatory** | skills/regulatory_appendix | "NIST / EU / FTC / ISO / state-law obligations" |
+| **Special topic — Healthcare / Bio AI (overview)** | special/healthcare_bio_ai | "Why is healthcare AI different? What does the three-lens view look like?" |
+| **Special topic — Pharma + Provider commercial** | special/healthcare_commercial_ai | "HCP NBA, omnichannel, MLR, DTC, adherence, payer AI, provider CRM, hospital ops" |
+| **Special topic — Bio foundation models + Clinical AI** | special/drug_discovery_and_clinical_ai | "AlphaFold 3, ESM-3, Evo-2, Boltz, AI biotech, ambient scribes, medical LLMs, DTx, FDA SaMD" |
+| **Special topic — Healthcare regulation + SDM lens** | special/healthcare_ai_regulation_and_sdm | "Five-frame regulatory stack; stakeholder topology, feedback loops, case-study failures, STAMP/STPA, platform engineering" |
 
 Each skill doc back-links into the relevant DD and frontier docs, so readers entering from the skills axis never lose access to methodological depth.
 
@@ -258,6 +278,15 @@ Each skill doc back-links into the relevant DD and frontier docs, so readers ent
 2. `docs/skills/system_design_and_management.md` — end-to-end SDM lens on AI marketing
 3. §11 within that doc — Reading Paths SDM-A (defend architecture) / SDM-B (diagnose degradation) / SDM-C (design the org) / SDM-D (pick a thesis topic)
 4. `docs/skills/regulatory_appendix.md` — governance as compliance (§7 of SDM doc is governance as system design — they are complementary)
+
+### Path Health: "I need the healthcare / bio AI picture"
+
+1. `docs/special/healthcare_bio_ai.md` — overview and three-lens synthesis
+2. `docs/special/healthcare_commercial_ai.md` — pharma + provider commercial layer (Sales lens)
+3. `docs/special/drug_discovery_and_clinical_ai.md` — bio foundation models + clinical product landscape (Productization / scientific layer)
+4. `docs/special/healthcare_ai_regulation_and_sdm.md` — regulatory stack + SDM lens (governance)
+5. `docs/skills/sales_skill.md §2.9` — prior coverage of HCP-targeting that this special topic extends
+6. `docs/skills/regulatory_appendix.md §7` — sector-specific healthcare regulatory notes (complementary to special/healthcare_ai_regulation_and_sdm)
 
 ---
 

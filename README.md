@@ -17,7 +17,8 @@ docs/
 ├── 05_marketing_mix_modeling.md   # Bayesian MMM and multi-touch attribution
 ├── deep_dive/                     # Long-form treatments (DD1-DD8)
 ├── frontier/                      # Post-2023 frontier: GenAI, LLM recommenders, agentic
-└── skills/                        # Capability-lens rereading: Sales vs. Productization
+├── skills/                        # Capability-lens rereading: Sales, Productization, SDM
+└── special/                       # Cross-domain special topics (healthcare / bio AI)
 ```
 
 The **domain axis** (`docs/01-05`, `deep_dive/`, `frontier/`) organizes research by marketing problem and AI method. The **skills axis** (`docs/skills/`) reorganizes the same research by operating capability — *Sales* (selling + investment) and *Productization* (model + system + product engineering). Both axes are maintained in parallel; see `INDEX.md` for navigation.
